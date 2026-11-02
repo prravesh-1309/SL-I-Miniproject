@@ -1,0 +1,1499 @@
+peak_name,year,termination_reason,highpoint_metres,members,member_deaths,hired_staff,oxygen_used,trekking_agency
+Ama Dablam,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6300.0,10,0,2,True,Su-Swagatam Treks
+Annapurna I,2015,Success (main peak),8091.0,7,1,6,True,Dreamers Destination Treks
+Cho Oyu,2015,Other,5200.0,7,0,3,False,Everest Parivar
+Cho Oyu,2015,Other,5650.0,1,0,0,False,Seven Summit Treks
+Everest,2015,Other,6500.0,17,1,20,False,Himalayan Guides
+Everest,2015,Other,6400.0,9,0,9,False,Seven Summit Treks
+Everest,2015,Other,6400.0,7,0,14,False,Expedition Himalaya
+Everest,2015,Other,6400.0,14,0,27,False,Himalayan Guides
+Everest,2015,Other,6100.0,4,0,5,False,Himalayan Trailblazer
+Everest,2015,Other,6500.0,3,0,5,False,High Altitude Dreams
+Everest,2015,Other,6400.0,12,0,7,False,Everest Parivar
+Everest,2015,Other,5350.0,4,0,5,False,Dream Himalaya Adventures
+Everest,2015,Other,6400.0,1,0,0,False,Seven Summit Treks
+Everest,2015,Other,6100.0,2,0,2,False,Himalayan Guides
+Everest,2015,Other,7000.0,5,0,0,False,Expedition Himalaya
+Everest,2015,Other,5100.0,8,0,0,False,Shangri-La Nepal Treks
+Everest,2015,Other,6000.0,2,0,0,False,Thamserku Trekking
+Everest,2015,Other,5950.0,1,0,1,False,Seven Summit Treks
+Everest,2015,Other,6400.0,15,0,20,False,Arun Treks
+Everest,2015,Other,5350.0,4,0,1,False,Shangri-La Nepal Treks
+Everest,2015,Other,6300.0,16,0,15,False,Asian Trekking
+Everest,2015,Other,6500.0,36,0,43,False,Beyul Adventure
+Everest,2015,Other,6400.0,2,0,0,False,Thamserku Trekking
+Everest,2015,Other,6400.0,3,0,0,False,Mountain Experience
+Everest,2015,Other,6400.0,12,1,11,False,Summit Nepal Trekking
+Everest,2015,Other,6110.0,16,0,17,False,Summit Nepal Trekking
+Lhotse,2015,Other,,2,0,0,False,Seven Summit Treks
+Lhotse,2015,Other,6100.0,2,0,0,False,Seven Summit Treks
+Lhotse,2015,Other,5350.0,1,0,0,False,Seven Summit Treks
+Lhotse,2015,Other,6500.0,4,0,0,False,Himalayan Ecstasy Treks
+Makalu,2015,Other,6400.0,1,0,1,False,Prestige Adventure (Mountain Experience permit)
+Makalu,2015,Other,6100.0,7,0,8,False,Active Holiday Nepal Treks
+Makalu,2015,Other,6300.0,9,0,0,False,Seven Summit Treks
+Makalu,2015,Other,6400.0,4,0,4,False,Himalayan Guides
+Makalu,2015,Other,6400.0,1,0,1,False,Expedition Himalaya
+Manaslu,2015,Success (main peak),8163.0,4,0,0,False,Cho Oyu Trekking
+Everest,2015,Other,,5,0,0,False,Thamserku Trekking
+Everest,2015,Other,6400.0,7,0,8,False,Asian Trekking
+Everest,2015,Other,6400.0,20,0,0,False,Holy Mountain Adventure
+Everest,2015,Other,6400.0,6,0,0,False,Asian Trekking
+Lhotse,2015,Other,6500.0,3,0,0,False,Himalayan Guides
+Annapurna I,2015,Other,6750.0,1,0,1,False,Himalayan Ascent
+Annapurna I,2015,Other,7000.0,1,0,0,False,Seven Summit Treks
+Cho Oyu,2015,Other,6000.0,3,0,3,False,Thamserku Trekking
+Cho Oyu,2015,Did not attempt climb,,1,0,1,False,Himalayan Guides
+Cho Oyu,2015,Other,5700.0,2,0,1,False,Dream Himalaya Adventures/Infinite Mountain Adv
+Cho Oyu,2015,Other,6000.0,8,0,6,False,Snowy Horizon Treks
+Dhaulagiri I,2015,Other,5700.0,1,0,0,False,Himalayan Sherpa Adventure
+Everest,2015,Other,5800.0,5,0,5,False,Ever Quest Expeditions
+Everest,2015,Other,6500.0,8,0,11,False,High Altitude Dreams
+Everest,2015,Other,6100.0,15,0,17,False,Mountain Experience
+Everest,2015,Other,6300.0,1,0,1,False,Explore Himalaya (Expedition Himalaya permit)
+Everest,2015,Other,6400.0,8,0,16,False,Ascent Himalayas
+Everest,2015,Other,6500.0,7,0,7,False,Ever Quest Expeditions
+Everest,2015,Other,5350.0,6,1,5,False,Dreamers Destination Treks
+Everest,2015,Other,6400.0,18,0,2,False,Active Holiday Nepal Treks
+Everest,2015,Other,5600.0,7,0,28,False,Seven Summit Treks
+Everest,2015,Other,6400.0,5,0,9,False,Arun Treks
+Everest,2015,Other,5350.0,1,0,0,False,Seven Summit Treks
+Everest,2015,Other,6300.0,3,0,0,False,Shangri-La Nepal Treks?
+Everest,2015,Other,6400.0,2,0,3,False,Expedition Himalaya
+Everest,2015,Other,6400.0,7,0,5,False,Thamserku Trekking
+Lhotse,2015,Other,5040.0,3,0,2,False,Mountain Experience
+Lhotse,2015,Other,,1,0,0,False,Seven Summit Treks
+Makalu,2015,Other,6000.0,4,0,5,False,Mountain Experience
+Makalu,2015,Other,6600.0,6,0,0,False,Seven Summit Treks
+Manaslu,2015,Other,5650.0,2,0,0,False,Multi Adventure
+Lhotse,2015,Other,6100.0,2,0,0,False,Himalayan Trailblazer
+Ama Dablam,2015,Other,6000.0,15,0,5,False,Snowy Horizon Treks
+Ama Dablam,2015,Other,,2,0,0,False,Monterosa Treks
+Annapurna I,2015,Other,,4,0,0,False,Seven Summit Treks
+Annapurna I,2015,"Bad weather (storms, high winds)",7900.0,5,0,6,True,Seven Summit Treks
+Annapurna I,2015,Other,6600.0,5,0,4,False,Trekking Camp Nepal
+Annapurna I,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6500.0,5,0,7,False,Thamserku Trekking
+Annapurna I,2015,"Illness, AMS, exhaustion, or frostbite",5600.0,2,0,1,False,Ascent Himalayas
+Baruntse,2015,Other,,4,0,0,False,Monterosa Treks
+Bhrikuti,2015,Did not attempt climb,,8,0,4,False,Yeti Adventure
+Dhaulagiri I,2015,Did not attempt climb,6500.0,5,0,0,False,Thamserku Trekking
+Dhaulagiri I,2015,Other,5200.0,1,0,1,False,Seven Summit Treks
+Everest,2015,Did not attempt climb,6100.0,1,0,4,False,Peak Promotion
+Everest,2015,Other,6500.0,6,0,9,False,Peaks of Nepal
+Everest,2015,Other,,5,0,7,False,Seven Brothers Summiters
+Everest,2015,Other,6100.0,3,0,6,False,High Altitude Dreams
+Everest,2015,Other,6100.0,1,0,1,False,Khumbu Shangri-La Nepal
+Everest,2015,Other,,3,0,1,False,Dream Himalaya Adventures permit
+Everest,2015,Other,,1,0,0,False,Expedition Himalaya permit
+Everest,2015,Other,6100.0,1,0,1,False,Prestige Adventure (Expedition Himalaya permit)
+Everest,2015,Other,6100.0,2,0,1,False,Prestige Adventure (Expedition Himalaya permit)?
+Everest,2015,Other,6400.0,8,0,14,False,Shangri-La Nepal Treks
+Everest,2015,Other,,3,0,0,False,Shangri-La Nepal Treks
+Everest,2015,Other,6400.0,6,0,8,False,Snowy Horizon Treks
+Everest,2015,Other,6100.0,3,0,1,False,Himalayan Guides
+Everest,2015,Other,6100.0,5,0,11,False,Himalayan Guides
+Everest,2015,Other,6100.0,3,0,3,False,Himalayan Guides
+Everest,2015,Other,6100.0,1,0,0,False,Himalayan Guides
+Everest,2015,Other,,4,0,3,False,Makalu Adventure permit
+Everest,2015,Other,7000.0,11,0,6,False,Makalu Adventure
+Everest,2015,Other,6100.0,9,0,6,False,Everest Parivar
+Lhotse,2015,Other,6100.0,5,0,3,False,Everest Parivar
+Everest,2015,Other,,9,0,15,False,Arun Treks
+Everest,2015,Other,,6,0,6,False,Cosmo Treks
+Everest,2015,Other,,1,0,1,False,Dreamers Destination Treks
+Everest,2015,Other,,6,0,0,False,Seven Summit Treks
+Everest,2015,Other,,3,0,0,False,Dreamers Destination Treks permit
+Everest,2015,Other,,4,0,0,False,Dreamers Destination Treks
+Everest,2015,Other,,1,0,0,False,Himalayan Guides
+Everest,2015,Other,,15,0,0,False,Seven Summit Treks
+Everest,2015,Other,,14,0,0,False,Seven Summit Treks
+Everest,2015,Other,,1,0,0,False,Dream Himalaya Adventures
+Everest,2015,Other,,5,0,0,False,Himalayan Guides Nepal
+Everest,2015,Other,,1,0,0,False,
+Everest,2015,Other,,1,0,0,False,
+Everest,2015,Other,,1,0,0,False,Nepal Charity Treks
+Everest,2015,Other,,2,0,0,False,Makalu Adventure
+Everest,2015,Other,6400.0,6,0,0,False,Arun Treks
+Everest,2015,Other,6400.0,17,0,0,False,7 Summits Adventure
+Everest,2015,Other,,8,0,14,False,Trekking Camp Nepal
+Everest,2015,Other,5350.0,3,0,0,False,Trekking Camp Nepal
+Lhotse,2015,Other,6500.0,7,0,8,False,Beyul Adventure
+Lhotse,2015,Other,6400.0,4,0,4,False,Expedition Himalaya
+Lhotse,2015,Other,,7,0,0,False,Cosmo Treks
+Lhotse,2015,Other,,3,0,3,False,Snowy Horizon Treks
+Lhotse,2015,Other,,9,0,7,False,Seven Summit Treks
+Lhotse,2015,Other,,4,0,1,False,Cho Oyu Trekking (Seven Summit Treks permit)
+Lhotse,2015,Other,,2,0,3,False,Himalayan Guides
+Lhotse,2015,Other,6400.0,9,0,0,False,Arun Treks
+Lhotse,2015,Other,,7,1,0,False,Dreamers Destination Treks
+Lhotse,2015,Other,,14,0,0,False,Seven Summit Treks
+Makalu,2015,Other,,1,0,0,False,Prestige Adventure (Mountain Experience permit)
+Makalu,2015,Other,6550.0,9,0,0,False,Cho Oyu Trekking
+Makalu,2015,Other,,6,0,0,False,Seven Summit Treks
+Manaslu,2015,Success (main peak),8163.0,7,0,4,False,Yeti Adventure
+Manaslu,2015,Other,,5,0,0,False,Rolwaling Excursion
+Nuptse,2015,Did not attempt climb,,4,1,0,False,Himalayan Guides
+Nuptse,2015,Other,,2,0,0,False,Cosmo Treks
+Shartse,2015,Other,,6,0,5,False,Trekking Camp Nepal
+Peak 4,2015,"Route technically too difficult, lack of experience, strength, or motivation",6500.0,2,0,0,False,Bochi Bochi Treks
+Tankya I,2015,Did not reach base camp,,2,0,0,False,Khumbu Shangri-La Nepal
+Ngojumba Kang I,2015,Did not attempt climb,,1,0,2,False,Peak Promotion
+Ganchenpo,2015,Other,,4,0,3,False,Expedition Himalaya
+Gangapurna,2015,Other,,3,0,0,False,Cosmo Treks
+Gorakh Khang,2015,Other,,6,0,0,False,Royal Mountain Travel
+Ngojumba Kang III,2015,Did not attempt climb,,1,0,2,False,Peak Promotion
+Gyajikang,2015,Other,6500.0,6,0,0,False,Seven Summit Treks
+Himlung Himal,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",,3,0,2,False,Seven Summit Treks
+Langtang Ri,2015,Other,,4,0,3,False,Seven Summit Treks
+Annapurna IV,2015,Other,,3,0,0,False,Hoshi Treks
+Annapurna IV,2015,Other,,3,0,2,False,Dream Himalaya Adventures
+Annapurna I,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5800.0,5,0,0,False,Mountain Tribes Trekking
+Himlung Himal,2015,Success (main peak),7126.0,7,0,8,False,Active Holiday Nepal Treks
+Makalu,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",8100.0,5,0,4,True,Shangri-La Nepal Treks
+Manaslu,2015,Success (main peak),8163.0,5,0,3,True,Active Holiday Nepal Treks
+Manaslu,2015,Lack (or loss) of supplies or equipment,7000.0,2,0,0,False,Makalu Extreme Treks
+Manaslu,2015,Success (main peak),8163.0,1,0,2,True,Rolwaling Excursion (Himalayan Guides permit)
+Manaslu,2015,Success (main peak),8163.0,13,0,13,True,Seven Summit Treks
+Manaslu,2015,Success (main peak),8163.0,5,0,4,True,Mountain Experience
+Manaslu,2015,Success (main peak),8163.0,1,0,0,False,Himalayan Guides
+Manaslu,2015,Success (main peak),8163.0,12,0,3,False,Thamserku Trekking
+Annapurna South,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6000.0,4,0,0,False,Mountain Tribes Trekking
+Everest,2015,"Bad weather (storms, high winds)",8150.0,2,0,5,False,Bochi Bochi Treks
+Manaslu,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7000.0,2,0,0,False,Prestige Adventure
+Annapurna IV,2015,Success (main peak),7525.0,1,0,2,True,Hoshi Treks
+Thulagi,2015,Success (main peak),7059.0,4,0,0,False,7 Summits Adventure
+Ama Dablam,2015,Other,,15,0,4,False,Snowy Horizon Treks
+Kangchung Shar,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5750.0,2,0,0,False,Himalayan Guides
+Ama Dablam,2015,Success (main peak),6814.0,8,0,4,False,Himalayan Guides
+Ama Dablam,2015,Lack (or loss) of supplies or equipment,5800.0,10,0,3,False,Ramdung Expedition
+Ama Dablam,2015,Success (main peak),6814.0,6,0,3,False,Active Holiday Nepal Treks
+Ama Dablam,2015,Success (main peak),6814.0,2,0,1,False,Khumbi-ila Mt. & Trekking (Climbalaya permit)
+Ama Dablam,2015,Other,5300.0,2,0,1,False,Himalayan Trailblazer (Himalayan Guides permit)
+Ama Dablam,2015,Success (main peak),6814.0,4,0,0,False,Loben Expeditions
+Baruntse,2015,"Bad weather (storms, high winds)",6810.0,6,0,0,False,Wilderness Experience
+Chhopa Bamare,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5200.0,8,0,0,False,Glacier Safari Treks
+Chamlang,2015,Success (main peak),7321.0,3,0,0,False,Prestige Adventure
+Chobuje,2015,Success (main peak),6686.0,1,0,0,False,Dreamers Destination Treks
+Chukyima Go,2015,Success (main peak),6258.0,4,0,0,False,Dreamers Destination Treks
+Lunag Ri,2015,"Bad weather (storms, high winds)",6500.0,4,0,0,False,
+Manaslu,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6800.0,10,0,7,False,Himalayan Guides
+Manaslu,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7200.0,9,0,7,False,Mountain Experience
+Mukut Himal,2015,Success (main peak),6087.0,13,0,7,False,Himalaya Expeditions
+Nilgiri South,2015,Success (main peak),6839.0,3,1,0,False,Dream Himalaya Adventures
+Nuptse,2015,"Bad weather (storms, high winds)",6900.0,2,0,0,False,Royal Orchid Treks
+Ombigaichen,2015,Did not attempt climb,,2,0,0,False,Khumbi-ila Mt. & Trekking
+Tsartse,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6100.0,3,0,0,False,Multi Adventure
+Nuptse,2015,"Bad weather (storms, high winds)",6900.0,2,0,2,False,Royal Orchid Treks
+Tawoche,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6380.0,2,1,0,False,Shangri-La Nepal Treks
+Talung,2015,Success (main peak),7349.0,2,0,0,False,
+Aichyn,2015,Success (main peak),6055.0,9,0,2,False,Yeti Adventure
+Himlung Himal,2015,Success (main peak),7126.0,13,0,7,False,Yeti Adventure
+Manaslu,2015,Success (main peak),8163.0,8,1,2,True,Seven Summit Treks
+Baruntse,2015,"Route technically too difficult, lack of experience, strength, or motivation",7000.0,9,0,3,False,Everest Parivar
+Baruntse,2015,Unknown,,3,0,0,False,Everest Parivar
+Ama Dablam,2015,Success (main peak),6814.0,12,0,4,False,Everest Parivar
+Himlung Himal,2015,Success (main peak),7126.0,8,0,4,False,Snowy Horizon Treks
+Mukut Himal,2015,Success (main peak),6087.0,8,0,7,False,Himalaya Expeditions
+Mukut Himal,2015,"Bad weather (storms, high winds)",5280.0,13,0,2,False,Himalaya Expeditions
+Jabou Ri,2015,Success (main peak),6166.0,2,0,0,False,Himalayan Trailblazer
+Manaslu,2015,"Illness, AMS, exhaustion, or frostbite",7200.0,2,0,0,False,Active Holiday Nepal Treks permit
+Raungsiyar,2015,Success (main peak),6224.0,3,0,0,False,Dreamers Destination Treks
+Takargo East,2015,Success (main peak),6152.0,3,0,0,False,Dreamers Destination Treks
+Langdak,2015,Success (main peak),6220.0,3,0,0,False,Dreamers Destination Treks
+Ama Dablam,2015,Success (main peak),6814.0,2,0,0,False,Snowy Horizon Treks (Himalayan Guides permit)
+Ama Dablam,2015,Success (main peak),6814.0,3,0,0,False,Iceland Trekking (Active Holidays permit)
+Dhaulagiri I,2015,"Bad weather (storms, high winds)",7100.0,2,0,0,False,Glacier Safari Treks
+Himlung Himal,2015,Success (main peak),7126.0,6,0,3,True,Makalu Adventure
+Pumori,2015,"Illness, AMS, exhaustion, or frostbite",6300.0,3,0,0,False,Bochi Bochi Treks
+Pumori,2015,Unknown,,7,0,0,False,Himalayan Ascent
+Pumori,2015,Unknown,,1,0,1,False,Himalayan Ecstasy Treks
+Pumori,2015,Unknown,,2,0,0,False,Bochi Bochi Treks permit
+Api Main,2015,Success (main peak),7132.0,3,0,0,False,Cosmo Treks
+Tilicho,2015,"Bad weather (storms, high winds)",5900.0,3,0,3,False,Iceland Trekking
+Tengkangpoche,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6300.0,13,0,4,False,Highland Excursions
+Nangpai Gosum I,2015,Did not attempt climb,,4,0,0,False,Thamserku Trekking
+Dzasampatse,2015,Did not attempt climb,6276.0,4,0,0,False,Thamserku Trekking
+Gave Ding,2015,Success (main peak),6581.0,4,0,0,False,Royal Mountain Travel
+Annapurna IV,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5000.0,3,0,0,False,Prestige Adventure
+Ama Dablam,2015,Success (main peak),6814.0,4,0,0,False,Climbalaya
+Ama Dablam,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6100.0,1,0,0,False,Climbalaya
+Ama Dablam,2015,Unknown,,1,0,0,False,Climbalaya
+Ama Dablam,2015,Success (main peak),6814.0,2,0,1,False,Climbalaya
+Ama Dablam,2015,Success (main peak),6814.0,9,0,7,False,Ascent Himalayas
+Beding Go,2015,Success (main peak),6125.0,7,0,4,False,Ascent Himalayas
+Aichyn,2015,Success (main peak),6055.0,5,0,0,False,Cosmo Treks
+Manaslu,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6750.0,10,0,9,False,Expedition Himalaya
+Manaslu,2015,Success (main peak),8163.0,10,0,0,False,Mount Treks
+Manaslu,2015,Success (main peak),8163.0,3,0,4,False,Ascent Himalayas
+Ama Dablam,2015,Success (main peak),6814.0,9,0,5,False,Himalayan Guides
+Ama Dablam,2015,Success (main peak),6814.0,7,0,2,False,Himalayan Guides
+Ama Dablam,2015,Unknown,,3,0,0,False,Bochi Bochi Treks
+Ama Dablam,2015,Success (main peak),6814.0,8,0,4,False,Peaks of Nepal
+Ama Dablam,2015,Success (main peak),6814.0,7,0,7,False,Dream Himalaya Adventures
+Ama Dablam,2015,Success (main peak),6814.0,12,0,5,False,Himalayan Guides
+Ama Dablam,2015,Success (main peak),6814.0,2,0,0,False,Active Holiday Nepal permit
+Ama Dablam,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6200.0,4,0,0,False,Shangri-La Nepal Treks
+Ama Dablam,2015,Success (main peak),6814.0,10,0,9,False,Himalayan Ascent
+Ama Dablam,2015,Lack of time,,4,0,0,False,Himalayan Ascent permit
+Ama Dablam,2015,Unknown,,11,0,0,False,Seven Summit Treks
+Ama Dablam,2015,Unknown,,2,0,0,False,Seven Summit Treks
+Ama Dablam,2015,Success (main peak),6814.0,15,0,10,False,Seven Summit Treks
+Ama Dablam,2015,Success (main peak),6814.0,9,0,3,False,Himalayan Guides
+Ama Dablam,2015,Success (main peak),6814.0,3,0,3,False,Himalayan Guides
+Ama Dablam,2015,Success (main peak),6814.0,2,0,0,False,Bochi Bochi Treks permit
+Annapurna I,2015,"Bad weather (storms, high winds)",5600.0,2,0,6,False,Ascent Himalayas
+Chumbu,2015,Other,,8,0,0,False,Nepal Climbing Professionals
+Everest,2015,Other,6400.0,10,0,0,False,Asian Trekking
+Cho Oyu,2015,Other,5700.0,8,0,0,False,
+Cho Oyu,2015,Other,5700.0,11,0,0,False,Thamserku Trekking
+Cho Oyu,2015,Other,,4,0,0,False,7 Summits Adventure?
+Cho Oyu,2015,Other,,2,0,0,False,Wild Yak Expeditions
+Lhotse,2015,Other,,2,0,0,False,Trekking Camp Nepal
+Annapurna I,2016,Success (main peak),8091.0,3,0,1,True,Himalayan Ascent
+Dhaulagiri I,2016,"Illness, AMS, exhaustion, or frostbite",7300.0,3,0,1,True,Himalayan Ascent
+Annapurna I,2016,Success (main peak),8091.0,5,0,6,True,Seven Summit Treks
+Annapurna I,2016,Success (main peak),8091.0,14,0,8,True,Seven Summit Treks
+Annapurna I,2016,Success (main peak),8091.0,5,0,3,False,Trekking Camp Nepal
+Annapurna I,2016,Accident (death or serious injury),6290.0,1,0,2,False,Bochi Bochi Treks
+Annapurna III,2016,"Bad weather (storms, high winds)",6500.0,5,0,0,False,Shangri-La Nepal Treks
+Burke Kang,2015,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6900.0,9,0,10,False,Himalayan Guides
+Chamlang,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5700.0,2,0,0,False,Seven Summit Treks
+Cho Oyu,2016,Success (main peak),8188.0,14,0,12,True,Everest Parivar
+Cho Oyu,2016,Did not attempt climb,,6,0,0,False,Active Holiday Nepal Treks
+Cho Oyu,2016,Success (main peak),8188.0,3,0,0,False,Rolwaling Excursion
+Cho Oyu,2016,"Illness, AMS, exhaustion, or frostbite",8000.0,2,0,0,False,Utmost Adventure
+Cho Oyu,2016,Success (main peak),8188.0,1,0,1,True,Rolwaling Excursion
+Cho Oyu,2016,"Bad weather (storms, high winds)",7600.0,2,0,0,False,Wild Yak Expeditions
+Cho Oyu,2016,Success (main peak),8188.0,3,0,3,True,Peak Promotion
+Cho Oyu,2016,Success (main peak),8188.0,1,0,1,True,Rolwaling Excursion
+Cho Oyu,2016,Unknown,7000.0,9,0,6,False,Summit Nepal Trekking
+Danphe Shail,2016,"Bad weather (storms, high winds)",5690.0,5,0,2,False,Off the Wall Trekking
+Dhaulagiri I,2016,"Bad weather (storms, high winds)",7650.0,3,1,1,False,Seven Summit Treks
+Dhaulagiri I,2016,Success (main peak),8167.0,1,0,3,True,Himalayan Guides
+Dhaulagiri I,2016,"Bad weather (storms, high winds)",7550.0,12,0,2,False,Himalaya Expeditions
+Dhaulagiri I,2016,Success (main peak),8167.0,2,0,2,False,Seven Summit Treks
+Dhaulagiri I,2016,Success (main peak),8167.0,4,0,4,True,Peak Promotion (Himalayan Guides pmt)
+Dhaulagiri I,2016,"Route technically too difficult, lack of experience, strength, or motivation",,2,1,0,False,Snowy Horizon Treks (Himalayan Guides permit)
+Dhaulagiri I,2016,Success (main peak),8167.0,1,0,0,False,Himalayan Guides permit
+Dhaulagiri I,2016,Success (main peak),8167.0,6,0,5,True,NE-KO Treks
+Tukuche,2016,Success (subpeak),6848.0,24,0,3,False,Himalaya Expeditions
+Makalu,2016,Success (main peak),8485.0,21,0,8,True,Seven Summit Treks
+Makalu,2016,Success (main peak),8485.0,11,0,4,True,Thamserku Trekking
+Makalu,2016,"Illness, AMS, exhaustion, or frostbite",7450.0,1,0,1,False,Alpine Sherpa Guide Treks
+Makalu,2016,Success (main peak),8485.0,1,0,2,True,Alpine Sherpa Guide Treks
+Makalu,2016,Success (main peak),8485.0,5,0,5,True,Active Holiday Nepal Treks
+Makalu,2016,Success (main peak),8485.0,2,0,0,False,Cho Oyu Trekking
+Makalu,2016,"Bad weather (storms, high winds)",6900.0,1,0,1,False,Expedition Himalaya
+Makalu,2016,Success (main peak),8485.0,6,0,2,False,Cho Oyu Trekking
+Makalu,2016,Success (main peak),8485.0,2,0,0,False,Cho Oyu Trekking
+Manaslu,2016,Success (main peak),8163.0,3,0,0,False,Cho Oyu Trekking
+Manaslu,2016,Success (subpeak),8125.0,21,0,6,True,Summit Nepal Trekking
+Mukut Himal,2016,Success (main peak),6087.0,6,0,0,False,Himalaya Expeditions
+Narphu,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",,1,0,2,False,Grand Himalaya Treks
+Nuptse,2016,"Bad weather (storms, high winds)",,2,0,0,False,Cho Oyu Trekking
+Himlung Himal,2016,Success (main peak),7126.0,8,0,7,False,Yeti Adventure
+Baruntse,2015,"Route technically too difficult, lack of experience, strength, or motivation",7000.0,5,0,3,False,Seven Summit Treks
+Baruntse,2015,"Route technically too difficult, lack of experience, strength, or motivation",7000.0,5,0,3,False,Khumbi-ila Mt. & Trekking (Atalante Mtnrg)
+Chamlang,2015,Accident (death or serious injury),6500.0,2,1,0,False,Alpine Asian Treks
+Dzanye II,2015,Success (main peak),6318.0,6,0,0,False,Cosmo Treks
+Himlung Himal,2015,"Bad weather (storms, high winds)",6850.0,2,0,0,False,Active Holiday Nepal Treks permit
+Himlung Himal,2015,"Bad weather (storms, high winds)",6200.0,4,0,4,False,Adventure Alternative Nepal (Snowy Horizon permit)
+Himlung Himal,2015,Success (main peak),7126.0,13,0,11,False,Seven Summit Treks
+Himlung Himal,2015,Success (main peak),7126.0,6,0,5,False,Active Holiday Nepal Treks
+Langdak,2015,Success (main peak),6220.0,6,0,0,False,Cosmo Treks
+Raungsiyar,2015,Success (main peak),6224.0,6,0,0,False,Cosmo Treks
+Lhotse,2015,"Bad weather (storms, high winds)",8200.0,6,0,10,False,Trekking Camp Nepal
+Manaslu,2015,Success (main peak),8163.0,8,0,14,True,Seven Summit Treks
+Manaslu,2015,Other,7400.0,4,0,0,False,Himalayan Guides permit
+Manaslu,2015,Success (main peak),8163.0,1,0,0,True,Himalayan Guides permit
+Everest,2016,Success (main peak),8850.0,17,0,24,True,Asian Trekking
+Everest,2016,Success (main peak),8850.0,0,0,9,True,
+Everest,2016,Success (main peak),8850.0,15,0,15,True,Seven Summit Treks
+Everest,2016,Success (main peak),8850.0,6,0,3,True,Seven Summit Treks
+Everest,2016,Success (main peak),8850.0,9,2,9,True,Seven Summit Treks
+Everest,2016,Success (main peak),8850.0,7,0,7,True,Seven Summit Treks
+Everest,2016,Success (main peak),8850.0,16,0,32,True,Holy Mountain Adventure
+Everest,2016,Success (main peak),8850.0,6,0,7,True,Seven Summit Treks
+Everest,2016,Success (main peak),8850.0,9,0,7,True,Everest Parivar
+Everest,2016,Success (main peak),8850.0,12,0,9,True,Everest Parivar
+Everest,2016,Success (main peak),8850.0,37,0,26,True,Beyul Adventure
+Everest,2016,Success (main peak),8850.0,8,0,8,True,Mountain Experience
+Everest,2016,Success (main peak),8850.0,11,0,18,True,Himalayan Guides
+Everest,2016,Success (main peak),8850.0,2,0,1,True,Himalayan Guides
+Everest,2016,Success (main peak),8850.0,3,0,2,True,Himalayan Guides
+Everest,2016,Success (main peak),8850.0,2,0,2,True,Himalayan Guides
+Everest,2016,Success (main peak),8850.0,2,0,2,True,Himalayan Guides
+Everest,2016,Success (main peak),8850.0,15,0,17,True,Himalayan Guides
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Himalayan Guides
+Everest,2016,Success (main peak),8850.0,3,0,3,True,Tseringma Treks (Himalayan Guides permit)
+Everest,2016,Success (main peak),8850.0,7,0,15,True,Expedition Himalaya
+Everest,2016,Success (main peak),8850.0,3,0,6,True,Shangri-La Nepal Treks
+Everest,2016,Success (main peak),8850.0,5,0,9,True,Active Holiday Nepal Treks
+Everest,2016,Success (main peak),8850.0,3,0,5,True,Expedition Himalaya
+Everest,2016,Success (main peak),8850.0,5,0,7,True,Arun Treks
+Everest,2016,Success (main peak),8850.0,14,0,14,True,Arun Treks
+Everest,2016,Success (main peak),8850.0,6,0,8,True,Summit Nepal Trekking
+Everest,2016,Success (main peak),8850.0,6,0,5,True,Himalayan Ascent
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Prestige Adventure
+Everest,2016,Success (main peak),8850.0,18,0,12,True,Himalayan Holidays
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Arun Treks
+Everest,2016,"Route technically too difficult, lack of experience, strength, or motivation",6400.0,2,0,1,False,Mountain Tribes Trekking
+Everest,2016,Success (main peak),8850.0,8,0,8,True,Iceland Trekking
+Everest,2016,Success (main peak),8850.0,2,0,5,True,High Altitude Dreams
+Everest,2016,Success (main peak),8850.0,19,0,19,True,Himalaya Expeditions
+Everest,2016,Success (main peak),8850.0,6,0,10,True,Cosmo Treks
+Everest,2016,Success (main peak),8850.0,5,0,8,True,Dreamers Destination Treks
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Prestige Adventure
+Everest,2016,Success (main peak),8850.0,6,0,7,True,Dream Himalaya Adventures
+Everest,2016,Success (main peak),8850.0,5,0,5,True,Happy Feet Mountaineers
+Everest,2016,Accident (death or serious injury),7200.0,2,0,4,False,Utmost Adventure
+Everest,2016,Success (main peak),8850.0,1,0,2,True,Asia Voyage
+Everest,2016,Success (main peak),8850.0,5,0,7,True,Ascent Himalayas
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Seven Brothers Summiters
+Everest,2016,Success (main peak),8850.0,11,0,12,True,Satori Adventures
+Everest,2016,Other,5500.0,2,0,2,False,Makalu Adventure
+Everest,2016,Success (main peak),8850.0,2,0,3,True,Trekking Camp Nepal
+Everest,2016,Success (main peak),8850.0,4,3,4,True,Trekking Camp Nepal
+Everest,2016,"Bad weather (storms, high winds)",7300.0,1,0,1,False,Prestige Adventure (Expedition Himalaya pmt)
+Everest,2016,Success (main peak),8850.0,3,0,3,True,Tirtha Tamang (Bright Way Treks)
+Everest,2016,Success (main peak),8850.0,17,0,13,True,7 Summits Adventure
+Everest,2016,Success (main peak),8850.0,2,0,0,True,Shangri-La Nepal Treks
+Everest,2016,Success (main peak),8850.0,2,0,0,True,Shangri-La Nepal Treks
+Everest,2016,Success (main peak),8850.0,5,0,4,True,Shangri-La Nepal Treks
+Everest,2016,Success (main peak),8850.0,8,0,5,True,Shangri-La Nepal Treks
+Everest,2016,Success (main peak),8850.0,8,0,8,True,Climbalaya
+Everest,2016,Success (main peak),8850.0,4,0,5,True,Climbalaya
+Everest,2016,Success (main peak),8850.0,9,0,7,True,Satori Adventures
+Everest,2016,Success (main peak),8850.0,2,0,1,True,Cho Oyu Trekking
+Ama Dablam,2016,"Bad weather (storms, high winds)",6400.0,5,0,0,False,Arun Treks
+Everest,2016,Success (main peak),8850.0,2,0,2,True,Grand Himalaya Treks
+Everest,2016,Success (main peak),8850.0,1,0,2,True,Rolwaling Excursion
+Everest,2016,Success (main peak),8850.0,1,0,2,True,Rolwaling Excursion
+Everest,2016,Success (main peak),8850.0,2,0,0,True,Rolwaling Excursion
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Rolwaling Excursion
+Everest,2016,Success (main peak),8850.0,3,0,2,True,Mountain Experience
+Everest,2016,Success (main peak),8850.0,2,0,2,True,Mountain Experience
+Everest,2016,Success (main peak),8850.0,6,0,1,True,Thamserku Trekking
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Thamserku Trekking
+Everest,2016,Success (main peak),8850.0,3,0,0,True,Makalu Extreme Treks
+Everest,2015,Other,6450.0,3,0,2,True,Grand Himalaya Treks
+Everest,2016,Success (main peak),8850.0,10,0,8,True,TAGnepal Trekking
+Everest,2016,Success (main peak),8850.0,2,0,0,True,Wild Yak Expeditions
+Lhotse,2016,Lack (or loss) of supplies or equipment,8000.0,3,0,1,False,Asian Trekking
+Lhotse,2016,Accident (death or serious injury),8500.0,8,0,12,True,Arun Treks
+Lhotse,2016,Accident (death or serious injury),7050.0,3,0,2,False,Himalayan Guides
+Lhotse,2016,Accident (death or serious injury),7750.0,6,0,0,False,Everest Parivar
+Lhotse,2016,Accident (death or serious injury),8460.0,3,0,2,True,Prestige Adventure
+Lhotse,2016,Accident (death or serious injury),,4,0,0,False,Beyul Adventure
+Lhotse,2016,Lack (or loss) of supplies or equipment,8500.0,2,0,2,True,Cosmo Treks
+Lhotse,2016,Accident (death or serious injury),8450.0,5,0,0,True,Dreamers Destination Treks
+Lhotse,2016,Accident (death or serious injury),8450.0,1,0,1,True,Dreamers Destination Treks
+Lhotse,2016,Accident (death or serious injury),8000.0,3,0,1,True,Seven Summit Treks
+Lhotse,2016,Accident (death or serious injury),8460.0,2,0,0,False,Seven Summit Treks
+Everest,2016,Success (main peak),8850.0,8,0,9,True,Arun Treks
+Gorakh Khang,2016,Did not attempt climb,,2,0,0,False,Royal Mountain Travel
+Tukuche,2016,"Bad weather (storms, high winds)",5700.0,11,0,4,False,Annapurna Treks
+Tukuche,2016,Success (main peak),6920.0,4,0,0,False,Satori Adventures
+Ama Dablam,2016,Success (main peak),6814.0,13,0,4,False,Satori Adventures
+Nemjung,2015,Did not attempt climb,,3,0,0,False,Summit Nepal Trekking
+Himlung Himal,2015,Success (main peak),7126.0,3,0,0,False,Summit Nepal Trekking
+Pandra,2015,"Illness, AMS, exhaustion, or frostbite",6600.0,2,0,0,False,Cosmo Treks
+Putha Hiunchuli,2015,Success (main peak),7246.0,2,0,1,False,Kailash Himalayan Treks
+Putha Hiunchuli,2015,Unknown,,7,0,0,False,Rainbow Mountain Treks
+Putha Hiunchuli,2015,"Bad weather (storms, high winds)",6380.0,11,0,2,False,Multi Adventure
+Saldim West,2015,"Bad weather (storms, high winds)",5300.0,2,0,0,False,Real Himalaya
+Tashi Kang,2015,Success (main peak),6386.0,8,0,3,False,Cosmo Treks
+Tashi Kang,2015,"Bad weather (storms, high winds)",6015.0,7,0,1,False,Global Link Treks
+Tsartse,2015,Unknown,,8,0,3,False,Cosmo Treks
+Sharphu II,2015,Unknown,,5,0,0,False,Private (Chhesang Bhote)
+Sita Chuchura,2015,Unknown,,2,0,1,False,Cultural Treks
+Lamjung Himal,2015,Unknown,,2,0,0,False,Four Brothers Adventure Travel
+Omitso Go,2016,"Bad weather (storms, high winds)",5600.0,2,0,0,False,Himalaya Expeditions
+Himlung Himal,2016,"Bad weather (storms, high winds)",6275.0,1,0,2,False,Adventure Geo Treks
+Annapurna I,2015,"Bad weather (storms, high winds)",6400.0,1,0,3,False,Rolwaling Excursion
+Cho Oyu,2016,"Route technically too difficult, lack of experience, strength, or motivation",7000.0,1,0,0,False,
+Ama Dablam,2016,Success (main peak),6814.0,8,0,0,False,Snowy Horizon Treks
+Annapurna IV,2016,"Bad weather (storms, high winds)",5800.0,4,0,3,False,Snowy Horizon Treks
+Chamlang,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5400.0,2,0,0,False,Trekking Camp Nepal
+Cho Oyu,2016,Unknown,,1,0,1,False,Expedition Himalaya
+Everest,2016,Success (main peak),8850.0,1,0,2,True,Altitude Ascent (Expedition Himalaya pmt)
+Lhotse,2016,Accident (death or serious injury),6493.0,3,0,0,False,Mountain Experience
+Lhotse,2016,"Illness, AMS, exhaustion, or frostbite",6400.0,2,0,1,True,Expedition Himalaya
+Makalu,2016,"Illness, AMS, exhaustion, or frostbite",7500.0,1,0,0,False,
+Everest,2016,Success (main peak),8850.0,6,0,3,True,Makalu Adventure
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Big Smile Nepal
+Cho Oyu,2016,Success (main peak),8188.0,2,0,0,False,Monterosa Treks
+Ama Dablam,2016,Success (main peak),6814.0,17,0,4,False,Everest Parivar
+Ama Dablam,2016,Success (main peak),6814.0,9,0,3,False,Everest Parivar
+Ama Dablam,2016,Success (main peak),6814.0,2,0,0,False,Himalayan Guides
+Ama Dablam,2015,Success (main peak),6814.0,2,0,1,False,Himalayan Guides
+Ama Dablam,2016,Success (main peak),6814.0,6,0,2,False,Su-Swagatam Treks
+Ama Dablam,2016,Accident (death or serious injury),6300.0,13,0,5,True,Himalayan Guides
+Ama Dablam,2016,Success (main peak),6814.0,11,0,6,False,Himalayan Guides
+Ama Dablam,2016,Success (main peak),6814.0,3,0,3,False,Shangri-La Nepal Treks
+Burke Kang,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6550.0,2,0,3,False,Asian Trekking
+Cho Oyu,2016,Success (main peak),8188.0,6,0,1,True,Rolwaling Excursion
+Cho Oyu,2016,Success (main peak),8188.0,2,0,2,True,Shangri-La Nepal Treks
+Cho Oyu,2016,Success (main peak),8188.0,2,0,2,True,Shangri-La Nepal Treks
+Cho Oyu,2016,Success (main peak),8188.0,8,0,5,True,Active Holiday Nepal Treks
+Cho Oyu,2016,Success (main peak),8188.0,16,0,11,True,Beyul Adventure
+Cho Oyu,2016,Success (main peak),8188.0,5,0,4,True,Himalayan Guides
+Cho Oyu,2016,Success (main peak),8188.0,15,0,5,True,Everest Parivar
+Cho Oyu,2016,Success (main peak),8188.0,4,0,3,True,Mountain Experience
+Cho Oyu,2016,Success (main peak),8188.0,4,0,3,True,Mountain Experience
+Cho Oyu,2016,Success (main peak),8188.0,4,0,1,False,Prestige Adventure
+Cho Oyu,2016,Success (main peak),8188.0,8,0,5,True,Shangri-La Nepal Treks
+Cho Oyu,2016,Success (main peak),8188.0,9,0,3,True,Seven Summit Treks
+Cho Oyu,2016,Success (main peak),8188.0,5,0,3,True,HImalayan Guides
+Cho Oyu,2016,Success (main peak),8188.0,2,0,1,False,Thamserku Trekking
+Cho Oyu,2016,Success (main peak),8188.0,2,0,1,False,Thamserku Trekking
+Cho Oyu,2016,Success (main peak),8188.0,3,0,0,False,Snowy Horizon Treks
+Cho Oyu,2016,Success (main peak),8188.0,11,0,0,False,Utmost Adventure
+Cho Oyu,2016,Success (main peak),8188.0,34,0,43,True,Holy Mountain Adventure
+Cho Oyu,2016,Success (main peak),8188.0,8,0,5,True,7 Summits Adventure
+Ama Dablam,2016,Success (main peak),6814.0,8,0,5,False,Himalayan Guides
+Ama Dablam,2016,Success (main peak),6814.0,3,0,1,False,Himalayan Ecstasy Treks
+Ama Dablam,2016,Success (main peak),6814.0,8,0,3,False,Seven Summit Treks
+Ama Dablam,2016,Unknown,,2,0,1,False,Shangri-La Nepal Treks (Grand Himalaya Treks pmt)
+Ama Dablam,2016,Success (main peak),6814.0,14,0,4,False,Thamserku Trekking
+Ama Dablam,2016,Success (main peak),6814.0,3,0,0,False,Mountain Tribes Trekking
+Ama Dablam,2016,Success (main peak),6814.0,4,0,4,False,Satori Adventures
+Ama Dablam,2016,Did not attempt climb,,2,0,0,False,Satori Adventures
+Ama Dablam,2016,Success (main peak),6814.0,9,0,4,False,TAGnepal Trekking
+Ama Dablam,2016,Success (main peak),6814.0,6,0,3,False,Grand Himalaya Treks
+Ama Dablam,2016,Success (main peak),6814.0,5,0,1,False,Monterosa Treks
+Ama Dablam,2016,Success (main peak),6814.0,4,0,1,False,Shangri-La Nepal Treks
+Ama Dablam,2016,Success (main peak),6814.0,7,0,0,False,Monterosa Treks?
+Ama Dablam,2016,Success (main peak),6814.0,9,0,0,False,Cho Oyu Trekking
+Ama Dablam,2016,Success (main peak),6814.0,1,0,1,False,Expedition Himalaya
+Ama Dablam,2016,Other,6100.0,2,0,0,False,Expedition Himalaya permit (Snowy Horizon?)
+Ama Dablam,2016,Did not attempt climb,,2,0,0,False,Expedition Himalaya permit
+Ama Dablam,2016,Success (main peak),6814.0,6,0,5,False,Himalayan Hikers
+Ama Dablam,2016,Success (main peak),6814.0,5,0,0,False,Himalayan Karma Treks
+Ama Dablam,2016,Success (main peak),6814.0,11,0,0,False,Mantare Himalaya Trekking
+Ama Dablam,2016,Success (main peak),6814.0,5,0,0,False,Prestige Adventure
+Ama Dablam,2016,Success (main peak),6814.0,3,0,3,False,Sherpa Khumbiyila Adventures (Satori Adv pmt)
+Ama Dablam,2016,Success (main peak),6814.0,7,0,0,False,Thapa Mountain Treks
+Ama Dablam,2016,Success (main peak),6814.0,7,0,3,False,Top Himalaya Guides
+Ama Dablam,2016,Success (main peak),6814.0,2,0,0,False,Incredible Himalayan Sherpa Adv (Snowy Horz pmt)
+Ama Dablam,2016,Success (main peak),6814.0,2,0,1,False,Snowy Horizon Treks permit
+Ama Dablam,2016,Unknown,,2,0,0,False,Snowy Horizon Treks permit
+Ama Dablam,2016,Success (main peak),6814.0,1,0,0,False,Snowy Horizon Treks permit
+Ama Dablam,2016,Success (main peak),6814.0,6,0,3,False,Korean Treks & Expeditions
+Ama Dablam,2016,Success (main peak),6814.0,4,0,6,False,Snowy Horizon Treks
+Ama Dablam,2016,Success (main peak),6814.0,3,0,1,False,Cultural Treks (Snowy Horizon pmt)
+Ama Dablam,2016,Success (main peak),6814.0,2,0,0,False,Snowy Horizon Treks (Tsering Tamang)
+Ama Dablam,2016,"Bad weather (storms, high winds)",6200.0,1,0,0,False,Snowy Horizon Treks
+Ama Dablam,2016,Success (main peak),6814.0,3,0,0,False,Asian Trekking (Prestige Adventure pmt)
+Ama Dablam,2016,Success (main peak),6814.0,2,0,3,False,Ascent Himalayas
+Annapurna II,2016,"Illness, AMS, exhaustion, or frostbite",6200.0,2,0,0,False,Himalayan Guides
+Baruntse,2016,Success (main peak),7152.0,8,0,5,False,Everest Parivar
+Chukyima Go,2016,Success (main peak),6258.0,2,0,0,False,Dreamers Destination Treks
+Dhaulagiri I,2016,"Bad weather (storms, high winds)",6400.0,7,0,6,False,Expedition Himalaya
+Gangapurna,2016,Success (main peak),7455.0,3,0,0,False,Trekking Camp Nepal
+Gangapurna West,2016,"Illness, AMS, exhaustion, or frostbite",7040.0,3,0,0,False,Trekking Camp Nepal
+Everest,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",8000.0,5,0,0,False,Thamserku Trekking
+Everest,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7400.0,1,0,0,False,Bochi Bochi Treks
+Ama Dablam,2016,Success (main peak),6814.0,1,0,0,False,Himalayan Ascent
+Gimmigela Chuli East,2016,Success (main peak),7007.0,2,0,0,False,Dream Himalaya Adventures
+Ngojumba Kang I,2016,"Route technically too difficult, lack of experience, strength, or motivation",5900.0,3,0,1,True,Mountain Tribes Trekking
+Ngojumba Kang III,2016,"Route technically too difficult, lack of experience, strength, or motivation",5900.0,3,0,1,False,Mountain Tribes Trekking
+Himlung Himal,2016,Accident (death or serious injury),6700.0,10,0,5,True,Active Holiday Nepal Treks
+Himlung Himal,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6420.0,13,0,3,False,Thamserku Trekking
+Himlung Himal,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6200.0,8,0,4,False,Iceland Trekking
+Himlung Himal,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6050.0,7,0,2,False,Ramdung Expedition
+Himlung Himal,2016,Success (main peak),7126.0,12,0,12,False,Seven Summit Treks
+Himlung Himal,2016,Success (main peak),7126.0,1,0,1,False,Himalaya Hikes (Seven Summit Treks pmt)
+Himlung Himal,2016,Success (main peak),7126.0,3,0,1,False,Khumbi-ila Mt. & Trekking
+Himlung Himal,2016,Success (main peak),7126.0,4,0,3,False,Himalayan Nepal Trek
+Himlung Himal,2016,Success (main peak),7126.0,3,0,1,False,Cho Oyu Trekking
+Himlung Himal,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6050.0,7,0,2,False,Iceland Trekking permit (Peak Adventures?)
+Himlung Himal,2016,Success (main peak),7126.0,5,0,4,False,Makalu Adventure
+Lunag Ri,2016,"Route technically too difficult, lack of experience, strength, or motivation",6600.0,2,0,0,False,Shangri-La Nepal Treks
+Ripimo Shar,2016,Success (main peak),6647.0,5,0,3,False,Dreamers Destination Treks
+Langdung,2016,Did not attempt climb,,13,0,4,False,Himalaya Expeditions
+Langdung,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6360.0,1,0,1,False,Ascent Himalayas
+Karyolung,2016,Success (main peak),6530.0,3,0,0,False,
+Numbur,2016,"Route technically too difficult, lack of experience, strength, or motivation",6900.0,3,0,0,False,
+Pawar Central,2015,Success (main peak),6621.0,6,0,4,False,Yeti Adventure
+Pawar Central,2016,Success (main peak),6621.0,7,0,0,False,Top Himalaya Guides
+Kangchung Shar,2016,Success (main peak),6063.0,4,0,2,False,Himalayan Guides
+Kimshung,2016,"Bad weather (storms, high winds)",6850.0,3,0,0,False,Seven Summit Treks
+Langju,2016,"Route technically too difficult, lack of experience, strength, or motivation",5700.0,5,0,1,False,Su-Swagatam Treks
+Makalu II,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6400.0,6,0,3,False,Nepalaya Odyssey Treks
+Ama Dablam,2016,Success (main peak),6814.0,2,0,1,False,Himalayan Ascent
+Pumori,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6700.0,3,0,0,False,Khumbi-ila Mt. & Trekking
+Manaslu,2016,Success (subpeak),8125.0,7,0,7,True,Mountain Experience
+Manaslu,2016,"Bad weather (storms, high winds)",6850.0,7,0,1,False,Thamserku Trekking
+Manaslu,2016,Success (subpeak),8125.0,5,0,4,True,Seven Summit Treks
+Manaslu,2016,Success (subpeak),8125.0,28,0,44,True,Seven Summit Treks
+Manaslu,2016,Success (subpeak),8125.0,3,0,0,True,Seven Summit Treks
+Manaslu,2016,Success (subpeak),8125.0,2,0,2,True,Seven Summit Treks
+Manaslu,2016,Unknown,,4,0,2,False,Seven Summit Treks
+Manaslu,2016,Success (subpeak),8125.0,7,0,4,True,Seven Summit Treks
+Manaslu,2016,Success (main peak),8163.0,7,0,2,True,Seven Summit Treks
+Manaslu,2016,Success (subpeak),8125.0,12,0,4,True,Makalu Extreme Treks
+Manaslu,2016,"Bad weather (storms, high winds)",7100.0,9,0,0,False,Asian Trekking
+Manaslu,2016,Success (main peak),8163.0,7,0,2,True,Asian Trekking
+Manaslu,2016,Success (subpeak),8125.0,5,0,5,True,High Altitude Dreams
+Manaslu,2016,Success (subpeak),8125.0,5,0,5,True,Himalayan Guides
+Manaslu,2016,Success (main peak),8163.0,2,0,0,False,Rolwaling Excursion (Himalayan Guides pmt)
+Manaslu,2016,Success (subpeak),8125.0,1,0,1,True,Rolwaling Excursion (Himalayan Guides pmt)
+Manaslu,2016,Success (subpeak),8125.0,2,0,2,False,Nireka Adventures (Seven Summit Treks pmt)
+Manaslu,2016,Success (subpeak),8125.0,2,0,0,False,Campobase Treks (Satori Adv pmt)
+Manaslu,2016,Success (main peak),8163.0,4,0,3,True,Dreamers Destination Treks
+Manaslu,2016,Success (subpeak),8125.0,8,0,2,False,Wild Yak Expeditions
+Ama Dablam,2016,Success (main peak),6814.0,2,0,0,False,Monterosa Treks
+Ama Dablam,2016,Success (main peak),6814.0,5,0,2,False,Asian Trekking (Prestige Adventure pmt)
+Manaslu,2016,Success (main peak),8163.0,1,0,1,True,Iceland Trekking (Satori Adv pmt)
+Manaslu,2016,Success (main peak),8163.0,2,0,0,False,Snowy Horizon Treks
+Manaslu,2016,Success (subpeak),8125.0,4,0,1,False,Satori Adventures
+Manaslu,2016,Success (main peak),8163.0,2,0,0,False,Prestige Adventure
+Manaslu,2016,Success (main peak),8163.0,1,0,0,False,Climbalaya
+Manaslu,2016,Success (main peak),8163.0,6,1,0,True,Cosmo Treks
+Manaslu,2016,Success (subpeak),8125.0,5,0,9,True,Ascent Himalayas
+Omitso Go,2016,Did not attempt climb,,1,0,1,False,Ascent Himalayas
+Tilicho,2016,Success (main peak),7134.0,4,0,5,False,Makalu Extreme Treks
+Nuptse,2016,"Illness, AMS, exhaustion, or frostbite",7450.0,4,0,0,False,Holiday Himalaya Treks
+Nangpai Gosum II,2016,Accident (death or serious injury),6600.0,5,0,0,False,Mountain Tribes Trekking
+Mukut Himal,2016,"Bad weather (storms, high winds)",6025.0,11,0,5,False,Yeti Adventure
+Putha Hiunchuli,2016,Unknown,,4,0,2,False,Iceland Trekking
+Putha Hiunchuli,2016,Unknown,,1,0,3,False,Iceland Trekking
+Putha Hiunchuli,2016,"Bad weather (storms, high winds)",7160.0,11,0,5,False,Yeti Adventure
+Takphu Himal,2016,Unknown,,5,0,3,False,Bochi Bochi Treks
+Takphu North,2016,Success (main peak),6142.0,6,0,3,False,Plan Holidays
+Nagoru,2016,Success (main peak),6165.0,2,0,1,False,
+Manaslu,2016,Success (main peak),8163.0,4,0,4,False,Snowy Horizon Treks
+Manaslu,2016,Success (subpeak),8125.0,2,0,4,False,Royal Orchid Treks
+Manaslu,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5700.0,3,0,0,False,Mount Treks
+Mukut Himal,2016,"Bad weather (storms, high winds)",,9,0,0,False,Kang Kora Treks
+Nangamari II,2016,Success (main peak),6209.0,9,0,1,False,Cosmo Treks
+Saldim West,2016,Success (main peak),6388.0,2,0,0,False,Snowy Horizon Treks
+Rolwaling Kang,2016,Success (main peak),6664.0,6,0,0,False,Cosmo Treks
+Baruntse,2016,Success (main peak),7152.0,7,0,0,False,Rainbow Mountain Treks
+Baruntse,2016,Unknown,,8,0,2,False,Trekking Camp Nepal
+Baruntse,2016,Unknown,,8,0,2,False,Champa Treks
+Putha Hiunchuli,2016,"Bad weather (storms, high winds)",6400.0,3,0,2,False,Hi On Life Adventures
+Ama Dablam,2016,Success (main peak),6814.0,7,0,2,False,Seven Summit Treks
+Ama Dablam,2016,Success (main peak),6814.0,5,0,0,False,Snowy Horizon Treks
+Manaslu,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",,3,0,3,False,Cosmo Treks
+Panbari,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6050.0,3,0,0,False,Khumbu Shangri-La Nepal
+Panbari,2016,Unknown,,2,0,1,False,Churen Himal Treks
+Ama Dablam,2016,Success (main peak),6814.0,0,0,6,False,Himalayan Guides
+Langtang Lirung,2016,Did not attempt climb,,3,0,0,False,Cho Oyu Trekking
+Pota Himal North,2016,Success (main peak),6182.0,4,0,0,False,Yeti Adventure
+Kang Nagchugo,2016,Success (main peak),6737.0,2,0,0,False,Cosmo Treks
+Gangapurna,2016,"Route technically too difficult, lack of experience, strength, or motivation",,1,0,0,False,Cosmo Treks
+Khamjung,2016,"Route technically too difficult, lack of experience, strength, or motivation",6200.0,3,0,2,False,Cosmo Treks
+Tsartse,2016,"Route technically too difficult, lack of experience, strength, or motivation",6300.0,2,0,1,False,Cosmo Treks
+Peak 41,2016,Success (main peak),6648.0,4,0,0,False,Trekking Camp Nepal
+Tobsar,2016,"Bad weather (storms, high winds)",5600.0,3,0,0,False,Churen Himal Treks
+Malanphulan,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6300.0,2,0,0,False,Cosmo Treks
+Kangchung Shar,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5820.0,2,0,0,False,Himalayan Ascent
+Ombigaichen,2016,Success (main peak),6340.0,5,0,0,False,
+Manaslu,2016,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7300.0,2,0,0,False,Satori Adventures
+Ama Dablam,2016,Success (main peak),6814.0,1,0,1,False,Expedition Himalaya permit
+Ama Dablam,2016,Success (main peak),6814.0,2,0,0,False,Himalayan Karma Treks
+Ama Dablam,2016,Success (main peak),6814.0,2,0,1,False,Shangri-La Nepal Treks permit
+Ama Dablam,2016,Success (main peak),6814.0,9,0,5,False,Satori Adventures
+Ama Dablam,2016,Success (main peak),6814.0,4,0,2,False,Himalayan Guides
+Ama Dablam,2016,Success (main peak),6814.0,1,0,0,False,Snowy Horizon Treks
+Ama Dablam,2016,Success (main peak),6814.0,2,0,1,False,Cho Oyu Trekking permit
+Ama Dablam,2016,Success (main peak),6814.0,11,0,6,False,Satori Adventures
+Ama Dablam,2016,Success (main peak),6814.0,11,0,3,False,Himalayan Ascent
+Ama Dablam,2016,Success (main peak),6814.0,7,0,3,False,Himalayan Guides
+Langdak,2016,Success (main peak),6220.0,9,0,2,False,Summit Nepal Trekking
+Manaslu,2016,Success (main peak),8163.0,2,0,0,False,Mountain Experience permit
+Peri,2016,Success (main peak),6174.0,1,0,2,False,Alternative Nepal?
+Tukuche,2016,Success (main peak),6920.0,18,0,0,False,Nepal Army
+Everest,2016,"Bad weather (storms, high winds)",8000.0,2,0,11,True,Seven Summit Treks
+Takargo East,2016,Success (main peak),6152.0,1,0,0,False,Langtang Ri Trekking
+Urkinmang,2016,Success (main peak),6143.0,2,0,0,False,
+Ama Dablam,2016,Success (main peak),6814.0,1,0,0,False,Snowy Horizon Treks
+Cho Oyu,2016,Success (main peak),8188.0,3,0,1,True,Snowy Horizon Treks
+Ama Dablam,2017,"Bad weather (storms, high winds)",6200.0,1,0,1,False,Snowy Horizon Treks
+Ama Dablam,2017,"Route technically too difficult, lack of experience, strength, or motivation",5900.0,2,0,1,False,TAGnepal Trekking/Mountain Madness
+Annapurna I,2017,Success (main peak),8091.0,2,0,0,False,Cho Oyu Trekking
+Annapurna I,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5100.0,3,0,6,False,Makalu Extreme Treks
+Annapurna I,2017,Success (main peak),8091.0,2,0,0,False,Top Himalaya Guides
+Annapurna I,2017,Success (main peak),8091.0,2,0,0,False,Prestige Adventure
+Annapurna I,2017,"Bad weather (storms, high winds)",6500.0,4,0,0,False,Seven Summit Treks
+Tilicho,2017,Success (main peak),7134.0,4,0,0,False,Seven Summit Treks
+Burke Kang,2017,"Bad weather (storms, high winds)",6400.0,1,0,5,False,Asian Trekking
+Cho Oyu,2017,Other,8100.0,2,0,0,False,Makalu Adventure
+Cho Oyu,2017,Lack (or loss) of supplies or equipment,6800.0,3,0,3,True,Seven Summit Treks
+Cho Oyu,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7150.0,4,0,3,False,Makalu Adventure
+Dhaulagiri I,2017,Success (main peak),8167.0,14,0,11,True,Himalayan Guides
+Dhaulagiri I,2017,Success (main peak),8167.0,4,0,3,True,Dreamers Destination Treks
+Dhaulagiri I,2017,Success (main peak),8167.0,25,0,10,True,Himalaya Expeditions
+Dhaulagiri I,2017,Success (main peak),8167.0,12,0,12,True,Himalaya Expeditions
+Dhaulagiri I,2017,Success (main peak),8167.0,4,0,0,False,Cho Oyu Trekking
+Dhaulagiri I,2017,Success (main peak),8167.0,2,0,2,True,Alpine Sherpa Guide Treks (Seven Summit Treks pmt)
+Dhaulagiri I,2017,"Illness, AMS, exhaustion, or frostbite",7800.0,3,0,4,True,Seven Summit Treks
+Dhaulagiri I,2017,Success (main peak),8167.0,2,0,0,False,Adventure Geo Treks
+Dhaulagiri I,2017,Success (main peak),8167.0,1,0,1,True,Trekking Camp Nepal (Seven Summit Treks permit)
+Cho Oyu,2017,Unknown,,3,0,2,False,Snowy Horizon Treks
+Cho Oyu,2017,Unknown,,1,0,0,False,Snowy Horizon Treks
+Ama Dablam,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6200.0,1,0,2,False,Nima Dorje (Snowy Horizons Treks permit)
+Ama Dablam,2017,Lack (or loss) of supplies or equipment,6000.0,1,0,1,False,Snowy Horizon Treks
+Kangchenjunga,2017,Lack (or loss) of supplies or equipment,8070.0,4,0,6,True,Himalayan Ascent
+Kangchenjunga,2017,"Illness, AMS, exhaustion, or frostbite",7350.0,3,0,0,False,Cho Oyu Trekking
+Kangchenjunga,2017,Lack (or loss) of supplies or equipment,8100.0,3,0,3,True,Seven Summit Treks
+Kangchenjunga,2017,Lack (or loss) of supplies or equipment,8010.0,11,0,8,True,Seven Summit Treks
+Makalu,2017,Lack (or loss) of supplies or equipment,8450.0,7,0,6,True,Expedition Himalaya
+Makalu,2017,Success (main peak),8485.0,2,0,1,True,Dreamers Destination Treks
+Makalu,2017,Success (main peak),8485.0,9,0,4,True,Seven Summit Treks
+Makalu,2017,Lack (or loss) of supplies or equipment,8445.0,4,0,2,True,Himalayan Guides
+Makalu,2017,"Illness, AMS, exhaustion, or frostbite",8445.0,6,0,0,False,Bochi Bochi Treks
+Makalu,2017,"Illness, AMS, exhaustion, or frostbite",8000.0,2,0,0,False,Prestige Adventure
+Makalu,2017,"Bad weather (storms, high winds)",7450.0,6,0,4,True,NE-KO Treks
+Makalu,2017,Lack (or loss) of supplies or equipment,8460.0,4,0,4,True,Peak Promotion
+Makalu,2017,Lack (or loss) of supplies or equipment,8445.0,1,0,1,False,Satori Adventures (Himalayan Guides permit)
+Makalu,2017,Lack (or loss) of supplies or equipment,6650.0,1,0,1,False,Expedition Himalaya
+Makalu,2017,Lack (or loss) of supplies or equipment,7200.0,1,0,2,True,Satori Adventures (Himalayan Guides permit)
+Manaslu,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5900.0,3,0,0,False,Yeti Expeditions (Satori Adventures permit)?
+Manaslu,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5700.0,2,0,1,False,Satori Adventures
+Dhaulagiri I,2017,Success (main peak),8167.0,7,0,2,True,Seven Summit Treks
+Pumori,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6600.0,4,0,0,False,Cho Oyu Trekking
+Pumori,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6800.0,2,0,0,False,Snowy Horizon Treks
+Sharphu IV,2017,"Bad weather (storms, high winds)",5600.0,3,0,1,False,Alternative Nepal
+Purkhung,2017,Success (main peak),6126.0,4,0,4,False,Yeti Adventure
+Gorakh Khang,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5650.0,4,0,0,False,Royal Mountain Travel
+Malanphulan,2017,Unknown,,2,0,0,False,Cosmo Treks
+Yaupa,2017,"Bad weather (storms, high winds)",6330.0,6,0,3,False,TAGnepal Trekking
+Himlung Himal,2017,Success (main peak),7126.0,10,0,7,False,Yeti Adventure
+Himlung East,2017,Success (main peak),6932.0,2,0,2,False,Yeti Adventure
+Everest,2017,Success (main peak),8850.0,14,0,7,True,Asian Trekking
+Everest,2017,Success (main peak),8850.0,12,0,15,True,Asian Trekking
+Everest,2017,Success (main peak),8850.0,20,0,19,True,Summit Nepal Trekking
+Everest,2017,Success (main peak),8850.0,23,0,8,True,Seven Summit Treks
+Makalu,2017,Success (main peak),8485.0,1,0,4,True,Seven Summit Treks
+Everest,2017,Success (main peak),8850.0,1,0,1,True,Seven Summit Treks
+Everest,2017,"Bad weather (storms, high winds)",8700.0,11,0,10,True,Seven Summit Treks
+Everest,2017,Success (main peak),8850.0,11,0,11,True,Seven Summit Treks
+Everest,2017,Success (main peak),8850.0,19,0,29,True,Seven Summit Treks
+Everest,2017,Success (main peak),8850.0,11,0,13,True,Mountain Experience
+Everest,2017,Success (main peak),8850.0,32,0,32,True,Beyul Adventure
+Everest,2017,Success (main peak),8850.0,8,0,12,True,Shangri-La Nepal Treks
+Everest,2017,Success (main peak),8850.0,18,0,27,True,Himalayan Guides
+Everest,2017,Success (main peak),8850.0,6,0,8,True,Himalayan Guides
+Everest,2017,Success (main peak),8850.0,7,0,8,True,High Altitude Dreams
+Everest,2017,Success (main peak),8850.0,16,0,20,True,Himalayan Guides
+Everest,2017,Success (main peak),8850.0,9,0,9,True,Ascent Himalayas
+Everest,2017,Success (main peak),8850.0,5,0,4,True,Dreamers Destination Treks
+Manaslu,2016,Success (main peak),8163.0,1,0,0,False,Climbalaya
+Everest,2017,Success (main peak),8850.0,4,0,6,True,Ever Quest Expeditions
+Everest,2017,Success (main peak),8850.0,14,0,9,True,Himalaya Expeditions
+Everest,2017,Success (main peak),8850.0,16,1,17,True,Everest Parivar
+Everest,2017,Success (main peak),8850.0,7,0,13,True,Expedition Himalaya
+Everest,2017,Success (main peak),8850.0,6,0,8,True,Expedition Himalaya
+Everest,2017,Success (main peak),8850.0,6,0,7,True,Himalayan Trailblazer
+Everest,2017,"Illness, AMS, exhaustion, or frostbite",7800.0,1,0,0,False,Utmost Adventure
+Everest,2017,Success (main peak),8850.0,9,0,10,True,Sherpa Khangri Outdoor
+Everest,2017,Success (main peak),8850.0,8,0,10,True,Sherpa Khangri Outdoor
+Everest,2017,"Bad weather (storms, high winds)",7600.0,3,0,0,False,Himalayan Trails
+Everest,2017,Lack (or loss) of supplies or equipment,8750.0,3,0,3,True,Prestige Adventure
+Everest,2017,Success (main peak),8850.0,1,0,2,True,Prestige Adventure
+Everest,2017,Lack (or loss) of supplies or equipment,7100.0,2,0,2,False,Mountain Experience
+Everest,2017,"Bad weather (storms, high winds)",7950.0,1,0,0,True,Prestige Adventure
+Everest,2017,Success (main peak),8850.0,1,0,2,True,Top Himalaya Guides
+Everest,2017,"Bad weather (storms, high winds)",8100.0,1,0,1,True,TAGnepal Trekking
+Everest,2017,Success (main peak),8850.0,1,0,5,True,TAGnepal Trekking
+Everest,2017,"Illness, AMS, exhaustion, or frostbite",7900.0,3,0,1,True,Dream Himalaya Adventures
+Everest,2017,Success (main peak),8850.0,1,0,2,True,Dream Himalaya Adventures
+Everest,2017,Success (main peak),8850.0,7,0,6,True,Cosmo Treks
+Everest,2017,Lack of time,8130.0,2,0,2,True,Climbalaya
+Everest,2017,Lack (or loss) of supplies or equipment,8650.0,1,0,1,True,Seven Summit Treks/Yeti Expeditions
+Everest,2017,Success (main peak),8850.0,1,0,1,True,Himalayan Guides
+Everest,2017,"Bad weather (storms, high winds)",8500.0,1,0,0,False,Mountain Experience
+Everest,2017,Success (main peak),8850.0,4,0,5,True,Seven Brothers Summiters/Himalayan Human Adventure
+Everest,2017,Success (main peak),8850.0,2,0,1,True,Himalayan Ski Trek (Satori permit)
+Everest,2017,"Bad weather (storms, high winds)",8600.0,3,0,4,True,Peak Promotion
+Everest,2017,"Illness, AMS, exhaustion, or frostbite",8750.0,1,1,0,False,Utmost Adventure
+Everest,2017,Accident (death or serious injury),6400.0,1,0,1,False,Royal Orchid Treks
+Everest,2017,Accident (death or serious injury),,2,1,5,False,Summit Nepal Trekking
+Everest,2017,Success (main peak),8850.0,1,1,1,True,Arun Treks (Seven Summit Treks permit)
+Everest,2017,Success (main peak),8850.0,1,0,1,True,Arun Treks
+Nuptse,2017,Accident (death or serious injury),7600.0,1,1,1,False,Royal Orchid Treks
+Everest,2017,Success (main peak),8850.0,1,0,1,True,Seven Summit Treks
+Everest,2017,Success (main peak),8850.0,2,0,2,True,Makalu Adventure
+Everest,2017,"Bad weather (storms, high winds)",7900.0,3,0,4,True,Mega Adventures (Dream Himalaya permit)
+Everest,2017,Success (main peak),8850.0,5,0,5,True,Trekking Camp Nepal
+Everest,2017,Other,6100.0,1,0,0,False,
+Everest,2017,Success (main peak),8850.0,4,0,1,True,Sherpa Shepherds
+Everest,2017,"Illness, AMS, exhaustion, or frostbite",6400.0,2,0,2,False,
+Everest,2017,Success (main peak),8850.0,10,0,6,True,Satori Adventures
+Everest,2017,Lack (or loss) of supplies or equipment,8300.0,2,0,2,True,Tseringma Treks
+Everest,2017,Success (main peak),8850.0,1,0,2,True,Himalayan Guides
+Lhotse,2017,Success (main peak),8516.0,13,0,5,True,Everest Parivar
+Lhotse,2017,Success (main peak),8516.0,2,0,2,True,Shangri-La Nepal Treks
+Lhotse,2017,Success (main peak),8516.0,1,0,1,True,Seven Summit Treks
+Lhotse,2017,Success (main peak),8516.0,3,0,2,True,Himalayan Guides
+Lhotse,2017,Success (main peak),8516.0,5,0,2,True,Himalayan Guides
+Lhotse,2017,Success (main peak),8516.0,2,0,2,True,Himalayan Guides
+Lhotse,2017,Success (main peak),8516.0,29,0,7,True,Seven Summit Treks
+Lhotse,2017,Success (main peak),8516.0,4,0,2,True,Seven Summit Treks
+Lhotse,2017,Success (main peak),8516.0,2,0,0,False,Prestige Adventure
+Lhotse,2017,Success (main peak),8516.0,3,0,0,True,Prestige Adventure
+Lhotse,2016,Accident (death or serious injury),8450.0,3,0,2,True,Seven Summit Treks
+Lhotse,2017,Success (main peak),8516.0,2,0,1,True,Sherpa Khangri Outdoor
+Lhotse,2017,Success (main peak),8516.0,4,0,2,True,Cosmo Treks
+Lhotse,2017,Success (main peak),8516.0,2,0,3,True,Ascent Himalayas (Himalayan Ascent permit)
+Lhotse,2017,Success (main peak),8516.0,1,0,0,False,Mountain Experience (Himalayan Ascent permit)
+Lhotse,2017,"Illness, AMS, exhaustion, or frostbite",8200.0,2,0,1,True,Himalayan Trailblazer
+Lhotse,2017,Success (main peak),8516.0,4,0,4,True,Himalayan Ascent
+Lhotse,2017,Unknown,7800.0,1,0,0,True,Himalayan Ski Trek
+Everest,2017,Success (main peak),8850.0,4,0,0,True,Himalayan Guides
+Everest,2017,Success (main peak),8850.0,2,0,2,True,Himalayan Traverse
+Everest,2017,"Bad weather (storms, high winds)",7300.0,1,0,0,False,Bochi Bochi Treks
+Everest,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7350.0,1,0,0,False,Bochi Bochi Treks
+Everest,2017,"Illness, AMS, exhaustion, or frostbite",6400.0,1,0,0,True,Beyul Adventure
+Everest,2017,Success (main peak),8850.0,12,0,11,True,7 Summits Adventure
+Everest,2017,Success (main peak),8850.0,25,0,25,True,Arun Treks
+Everest,2017,Success (main peak),8850.0,0,0,9,True,Arun Treks
+Everest,2017,"Bad weather (storms, high winds)",7800.0,1,0,2,True,Himalayan Guides?
+Everest,2017,Success (main peak),8850.0,1,0,2,True,Himalayan Guides
+Everest,2017,Success (main peak),8850.0,8,0,8,True,Seven Summit Treks
+Everest,2017,"Illness, AMS, exhaustion, or frostbite",8350.0,1,0,0,False,Seven Summit Treks
+Everest,2017,Success (main peak),8850.0,12,0,9,True,Everest Parivar
+Everest,2017,Success (main peak),8850.0,12,0,12,True,Active Holiday Nepal Treks
+Everest,2017,"Illness, AMS, exhaustion, or frostbite",8580.0,1,0,1,True,Active Holiday Nepal Treks
+Everest,2017,Success (main peak),8850.0,2,0,2,True,Himalayan Guides
+Everest,2017,Success (main peak),8850.0,4,0,4,True,Thamserku Trekking
+Everest,2017,Success (main peak),8850.0,10,0,9,True,Iceland Trekking
+Everest,2017,Success (main peak),8850.0,7,0,7,True,Shangri-La Nepal Treks
+Everest,2017,Success (main peak),8850.0,2,0,2,True,Shangri-La Nepal Treks
+Everest,2017,Success (main peak),8850.0,6,0,4,True,Makalu Extreme Treks
+Everest,2017,Success (main peak),8850.0,4,0,2,True,Rolwaling Excursion
+Everest,2017,Success (main peak),8850.0,5,0,2,True,Makalu Adventure
+Everest,2017,Success (main peak),8850.0,4,0,3,True,Climbalaya
+Everest,2017,Success (main peak),8850.0,5,0,5,True,Climbalaya
+Everest,2017,Success (main peak),8850.0,1,0,0,False,Cho Oyu Trekking (Climbalaya permit)
+Everest,2017,Success (main peak),8850.0,6,0,6,True,Mountain Experience
+Everest,2017,Accident (death or serious injury),8500.0,2,1,1,True,Adventure Thamserku (Expedition Himalaya permit)
+Everest,2017,Success (main peak),8850.0,1,0,1,True,Snowy Horizon Treks (Expedition Himalaya permit)
+Everest,2017,"Bad weather (storms, high winds)",7700.0,2,0,0,True,Namaste Treks
+Everest,2017,Unknown,,2,0,0,False,Monterosa Treks
+Everest,2017,Success (main peak),8850.0,2,0,0,False,Makalu Adventure
+Everest,2017,Success (main peak),8850.0,1,0,1,True,Expedition Himalaya
+Everest,2017,Success (main peak),8850.0,1,0,1,True,Satori Adventures
+Everest,2017,Success (main peak),8850.0,24,0,33,True,Holy Mountain Adventure
+Ama Dablam,2017,Success (main peak),6814.0,6,0,0,False,Mount Treks
+Ama Dablam,2017,Other,,4,0,0,False,Thamserku Trekking
+Ama Dablam,2017,Success (main peak),6814.0,3,0,2,False,Snowy Horizon Treks permit
+Annapurna I,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6050.0,1,0,2,False,Top Himalaya Guides
+Bhrikuti,2017,Did not attempt climb,,7,0,0,False,Happy Feet Mountaineers
+Manaslu,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5900.0,1,0,1,False,Wild Yak Expeditions
+Ama Dablam,2017,Success (main peak),6814.0,12,0,4,False,Beyul Adventure
+Ama Dablam,2017,Success (main peak),6814.0,5,0,4,False,Himalayan Guides
+Ama Dablam,2017,Success (main peak),6814.0,10,0,6,False,Seven Summit Treks
+Ama Dablam,2017,Success (main peak),6814.0,13,0,5,False,Everest Parivar
+Ama Dablam,2017,Success (main peak),6814.0,4,0,1,False,Thamserku Trekking
+Ama Dablam,2017,"Illness, AMS, exhaustion, or frostbite",6400.0,4,0,2,False,Makalu Adventure (Snowy Horizon permit)
+Ama Dablam,2017,Success (main peak),6814.0,6,0,1,False,Climbalaya
+Ama Dablam,2017,Success (main peak),6814.0,3,0,0,False,Climbalaya
+Ama Dablam,2017,Success (main peak),6814.0,3,0,1,False,Climbalaya
+Ama Dablam,2017,Success (main peak),6814.0,9,1,2,False,7 Summits Adventure (Thamserku Trekking permit)
+Ama Dablam,2017,Success (main peak),6814.0,17,0,5,False,Himalayan Guides
+Ama Dablam,2017,Success (main peak),6814.0,3,0,0,False,Prestige Adventure
+Ama Dablam,2017,Success (main peak),6814.0,3,0,0,False,Prestige Adventure
+Ama Dablam,2017,Success (main peak),6814.0,2,0,0,False,Prestige Adventure
+Ama Dablam,2017,Success (main peak),6814.0,1,0,0,False,Prestige Adventure
+Ama Dablam,2017,Success (main peak),6814.0,2,0,2,False,Asian Trekking (Prestige Adventure permit)
+Ama Dablam,2017,Success (main peak),6814.0,3,0,1,False,Makalu Extreme Treks
+Ama Dablam,2017,Success (main peak),6814.0,3,0,3,False,Makalu Extreme Treks
+Ama Dablam,2017,Success (main peak),6814.0,7,0,7,True,Makalu Extreme Treks
+Ama Dablam,2017,Success (main peak),6814.0,3,0,1,False,Himalayan Waves (Snowy Horizon permit)
+Ama Dablam,2017,Other,5900.0,2,0,0,False,Adventure Geo Treks (Snowy Horizon permit)
+Ama Dablam,2017,Success (main peak),6814.0,1,0,1,False,Happy Feet Mountaineers (Cho Oyu Trekking permit)
+Ama Dablam,2017,"Illness, AMS, exhaustion, or frostbite",5900.0,1,0,0,False,Cho Oyu Trekking
+Ama Dablam,2017,Unknown,,2,0,0,False,Cho Oyu Trekking (Top Himalaya Guides permit)
+Ama Dablam,2017,Success (main peak),6814.0,8,0,4,False,Peaks of Nepal
+Ama Dablam,2017,Success (main peak),6814.0,2,0,2,False,Himalaya Vision (Snowy Horizon permit)
+Ama Dablam,2017,Unknown,,2,0,2,False,Himalaya Vision (Snowy Horizon permit)
+Ama Dablam,2017,Success (main peak),6814.0,2,0,0,False,Ramdung Expedition (Snowy Horizon permit)
+Ama Dablam,2017,"Illness, AMS, exhaustion, or frostbite",6600.0,2,0,0,False,Wild Yak Expeditions
+Ama Dablam,2017,Success (main peak),6814.0,10,0,4,False,Satori Adventures
+Ama Dablam,2017,Success (main peak),6814.0,5,0,0,False,Shangri-La Nepal Treks
+Ama Dablam,2017,Success (main peak),6814.0,4,0,0,False,Tseringma Treks
+Ama Dablam,2017,Success (main peak),6814.0,1,0,1,False,Himalayan Ski Trek
+Ama Dablam,2017,Success (main peak),6814.0,2,0,1,False,Himalayan Ascent (Himalayan Guides permit)
+Ama Dablam,2017,Unknown,,1,0,1,False,Himalayan Ecstasy Treks (Hi on Life permit)
+Ama Dablam,2017,"Bad weather (storms, high winds)",6000.0,2,0,1,False,TAGnepal Trekking (Peaks of Nepal permit)
+Ama Dablam,2017,Success (main peak),6814.0,6,0,8,False,Himalayan Adventure (Happy Feet permit)
+Ama Dablam,2017,Success (main peak),6814.0,1,0,1,False,Royal Orchid Treks (Snowy Horizon permit)
+Ama Dablam,2017,Success (main peak),6814.0,1,0,1,False,Snowy Horizon Treks
+Ama Dablam,2017,Success (main peak),6814.0,6,0,4,False,Ever Quest Expeditions
+Ama Dablam,2017,Success (main peak),6814.0,3,0,1,False,Snowy Horizon Treks
+Ama Dablam,2017,Success (main peak),6814.0,3,0,0,False,Snowy Horizon Treks
+Ama Dablam,2017,Success (main peak),6814.0,6,0,6,True,Cosmo Treks (Snowy Horizon permit)?
+Ama Dablam,2017,Success (main peak),6814.0,2,0,2,False,Freedom Adventure (Prestige Adventure permit)
+Ama Dablam,2017,Success (main peak),6814.0,6,0,3,False,Happy Feet Mountaineers
+Ama Dablam,2017,Success (main peak),6814.0,4,0,3,False,Sherpa Khangri Outdoor (Peaks of Nepal permit)
+Ama Dablam,2017,"Bad weather (storms, high winds)",6300.0,6,0,0,False,Responsible Adventures (Hi on Life permit)
+Ama Dablam,2017,Success (main peak),6814.0,9,0,7,False,Top Himalaya Guides
+Ama Dablam,2017,Success (main peak),6814.0,1,0,1,False,Cho Oyu Trekking permit
+Ama Dablam,2017,Lack (or loss) of supplies or equipment,6550.0,1,0,0,False,Himalayan Guides
+Ama Dablam,2017,Success (main peak),6814.0,3,0,3,False,
+Ama Dablam,2017,"Illness, AMS, exhaustion, or frostbite",5950.0,2,0,0,False,Himalayan Wanderer
+Ama Dablam,2017,Success (main peak),6814.0,18,0,4,False,Snowy Horizon Treks
+Ama Dablam,2017,Lack (or loss) of supplies or equipment,5700.0,3,0,0,False,Snowy Horizon Treks
+Ama Dablam,2017,Success (main peak),6814.0,7,0,0,False,Marvel Treks (Snowy Horizon permit)
+Ama Dablam,2017,Success (main peak),6814.0,7,0,0,False,
+Ama Dablam,2017,Success (main peak),6814.0,1,0,0,False,Himalayan Guides
+Annapurna I,2017,"Illness, AMS, exhaustion, or frostbite",6000.0,2,0,0,False,Dreamers Destination Treks
+Annapurna IV,2017,"Route technically too difficult, lack of experience, strength, or motivation",6475.0,2,0,2,False,Sherpa High Ambitions
+Baruntse,2017,Success (main peak),7152.0,15,0,6,False,Everest Parivar
+Baruntse,2017,Success (main peak),7152.0,7,0,4,True,Makalu Adventure
+Baruntse,2017,Success (main peak),7152.0,7,0,3,False,Highland Excursions
+Baruntse,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7080.0,2,0,1,False,Himalaya Hikes
+Baruntse,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6100.0,6,0,0,False,Discovery Mountain
+Baruntse,2017,Success (main peak),7152.0,1,0,1,False,Annapurna Foothills
+Bhrikuti,2017,"Bad weather (storms, high winds)",6269.0,5,0,1,False,TAGnepal Trekking
+Bhrikuti Shail,2017,Success (main peak),6361.0,7,0,0,False,Happy Feet Mountaineers
+Bhrikuti Shail,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5250.0,3,0,0,False,Khumbi-ila Mt. & Trekking (Atalante)
+Burke Kang,2017,Success (main peak),6942.0,4,0,4,False,Asian Trekking
+Chekigo,2017,Success (subpeak),6121.0,8,0,0,False,Dream Carrier Treks
+Cholatse,2017,Success (main peak),6423.0,2,0,2,False,Asian Trekking
+Cho Oyu,2017,Success (main peak),8188.0,36,0,48,True,Holy Mountain Adventure
+Chukyima Go,2017,Success (main peak),6258.0,3,0,0,False,Shangri-La Nepal Treks
+Chulu West,2017,Success (main peak),6419.0,3,0,2,False,Dreamers Destination Treks/Imagine Nepal
+Danphe Shail,2017,Success (main peak),6103.0,11,0,3,False,Yeti Adventure
+Dhaulagiri I,2017,"Route technically too difficult, lack of experience, strength, or motivation",8050.0,3,0,6,True,Seven Summit Treks
+Dhaulagiri I,2017,Success (main peak),8167.0,1,0,0,False,Seven Summit Treks
+Dhaulagiri I,2017,Success (main peak),8167.0,3,0,2,True,Himalayan Guides
+Dhaulagiri I,2017,Success (main peak),8167.0,3,0,0,False,Prestige Adventure
+Dolma Khang,2017,Success (subpeak),5840.0,1,0,3,True,Ascent Himalayas
+Everest,2016,Success (main peak),8850.0,1,0,1,True,Seven Summit Treks
+Everest,2016,Success (main peak),8850.0,2,0,2,True,Iceland Trekking
+Everest,2017,Success (main peak),8850.0,1,0,2,True,Himalayan Wanderer
+Everest,2017,"Bad weather (storms, high winds)",7900.0,2,0,7,False,Seven Summit Treks
+Gangapurna West,2017,Lack (or loss) of supplies or equipment,6200.0,2,0,0,False,Thamserku Trekking
+Gyajikang,2017,Success (main peak),7074.0,9,0,0,False,Campobase Trek
+Gyajikang,2017,Success (main peak),7074.0,2,0,2,False,Satori Adventures (Campobase Treks permit)
+Himlung Himal,2017,Success (main peak),7126.0,11,0,3,False,Thamserku Trekking
+Himlung Himal,2017,Success (main peak),7126.0,4,0,3,False,Makalu Adventure (Snowy Horizon permit)
+Himlung Himal,2017,"Illness, AMS, exhaustion, or frostbite",6500.0,1,0,4,True,Himalayan RST Expeditions (Snowy Horizon permit)
+Himlung Himal,2017,Success (main peak),7126.0,13,0,0,False,Sherpa Adventure Travel
+Himlung Himal,2017,Success (main peak),7126.0,15,0,15,False,Seven Summit Treks
+Himlung Himal,2017,Success (main peak),7126.0,2,0,2,False,Snowy Horizon Treks
+Himlung Himal,2017,Success (main peak),7126.0,5,0,2,False,Yeti Adventure
+Himlung Himal,2017,Success (main peak),7126.0,6,0,1,False,Snowy Horizon Treks permit
+Himlung Himal,2017,Success (main peak),7126.0,13,0,4,False,Satori Adventures
+Kangchung Shar,2017,Success (main peak),6063.0,2,0,0,False,Himalayan Guides
+Kangchung Shar,2017,Success (main peak),6063.0,1,0,0,False,Himalayan Guides
+Khamjung,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6600.0,4,0,2,False,Tribeni Treks
+Korlang Pari Tippa,2017,Success (subpeak),5670.0,6,0,2,False,Himalaya Expeditions
+Kyazo Ri,2017,Success (main peak),6151.0,9,0,3,False,Sherpa & Swiss Adventures
+Kyungka Ri 1,2017,Success (main peak),6599.0,6,0,3,False,Seven Summit Treks
+Larkya Peak,2017,Success (main peak),6416.0,4,0,0,False,Asian Trekking
+Larkya Peak,2017,Success (main peak),6416.0,3,0,0,False,Cho Oyu Trekking
+Langdak,2017,Success (main peak),6220.0,10,0,1,False,Summit Nepal Trekking
+Langdung,2017,Unknown,5800.0,5,0,0,False,Dreamers Destination Treks
+Langdung,2017,Success (main peak),6326.0,4,0,0,False,Dreamers Destination Treks?
+Lhotse,2017,"Bad weather (storms, high winds)",8300.0,10,0,8,False,Trekking Camp Nepal
+Lhonak,2015,"Route technically too difficult, lack of experience, strength, or motivation",6000.0,6,0,0,False,Cosmo Treks
+Langju,2017,Success (main peak),6426.0,3,0,0,False,Cho Oyu Trekking
+Makalu,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",8100.0,4,0,4,False,Sherpa Shepherds
+Makalu,2017,Lack (or loss) of supplies or equipment,8300.0,1,0,2,True,Ever Quest Expeditions (Sherpa Shephards permit)
+Makalu,2017,Lack (or loss) of supplies or equipment,8400.0,1,0,1,False,Sherpa Khangri Outdoor
+Manaslu,2017,Success (main peak),8163.0,3,0,3,True,Mountain Experience
+Manaslu,2017,Success (main peak),8163.0,22,0,16,True,Seven Summit Treks
+Manaslu,2017,Success (main peak),8163.0,9,0,11,True,Seven Summit Treks
+Manaslu,2017,Success (main peak),8163.0,7,0,6,True,Seven Summit Treks
+Manaslu,2017,Success (main peak),8163.0,15,0,14,True,Seven Summit Treks
+Manaslu,2017,Success (main peak),8163.0,11,0,11,True,Seven Summit Treks
+Manaslu,2017,Success (main peak),8163.0,12,0,12,True,Himalaya Vision (former Active Holiday Nepal)
+Manaslu,2017,Success (main peak),8163.0,10,0,5,True,Everest Parivar
+Manaslu,2017,Success (main peak),8163.0,5,0,5,True,Himalayan Guides
+Manaslu,2017,Success (main peak),8163.0,34,0,9,True,Makalu Extreme Treks
+Manaslu,2017,Success (main peak),8163.0,9,0,9,True,"Kaitu Expeditions (Nima Namgyal), Dreamers Dest"
+Manaslu,2017,Success (main peak),8163.0,7,0,13,True,Dreamers Destination Treks
+Manaslu,2017,Success (main peak),8163.0,6,0,7,True,Sherpa Khangri Outdoor
+Manaslu,2017,Success (main peak),8163.0,1,0,2,True,Sherpa Khangri Outdoor
+Manaslu,2017,Success (main peak),8163.0,4,0,4,True,Peak Promotion
+Manaslu,2017,Success (main peak),8163.0,14,0,3,True,Thamserku Trekking
+Manaslu,2017,"Bad weather (storms, high winds)",7700.0,5,0,0,False,Thamserku Trekking
+Manaslu,2017,Success (main peak),8163.0,7,0,3,True,Climbalaya
+Manaslu,2017,Success (main peak),8163.0,1,0,0,False,Climbalaya
+Manaslu,2017,Success (main peak),8163.0,2,0,1,True,Climbalaya
+Manaslu,2017,Success (main peak),8163.0,13,0,8,True,7 Summits Adventure
+Manaslu,2017,Success (main peak),8163.0,4,0,4,True,TAGnepal Trekking
+Manaslu,2017,"Bad weather (storms, high winds)",7400.0,3,1,1,True,Himalayan Guides
+Manaslu,2017,Success (main peak),8163.0,2,0,2,True,Himalayan Guides
+Manaslu,2017,Success (main peak),8163.0,1,0,1,True,Himalayan Guides
+Manaslu,2017,Success (main peak),8163.0,3,0,2,True,Prestige Adventure
+Manaslu,2017,Success (main peak),8163.0,5,0,2,True,Prestige Adventure
+Manaslu,2017,Success (main peak),8163.0,3,0,0,False,Prestige Adventure
+Manaslu,2017,Success (main peak),8163.0,6,0,0,False,Prestige Adventure
+Manaslu,2017,Success (main peak),8163.0,1,0,1,False,Prestige Adventure
+Manaslu,2017,Success (main peak),8163.0,1,0,0,False,Prestige Adventure
+Manaslu,2017,Success (main peak),8163.0,8,0,10,True,Satori Adventures
+Manaslu,2017,Success (main peak),8163.0,4,0,4,True,Satori Adventures
+Manaslu,2017,Success (main peak),8163.0,1,0,1,True,Ticino Treks (Satori permit)
+Manaslu,2017,Success (main peak),8163.0,1,0,2,True,Mountain Experience
+Manaslu,2017,Success (main peak),8163.0,1,0,1,True,Tseringma Treks
+Manaslu,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6100.0,3,0,0,False,Cho Oyu Trekking
+Manaslu,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6400.0,3,0,4,False,Friends Adventure Team
+Manaslu,2017,Success (main peak),8163.0,4,0,1,True,Meraki Adventure/Snowy Horizon Treks
+Manaslu,2017,Success (main peak),8163.0,1,0,1,True,Glacier Himalaya Treks
+Manaslu,2017,Success (main peak),8163.0,5,0,5,True,Green Lake Trek/Pioneer Adventures
+Manaslu,2017,Success (main peak),8163.0,7,0,8,True,Ascent Himalayas
+Manaslu,2017,Success (main peak),8163.0,2,0,1,True,Bochi Bochi Treks (Snowy Horizon permit)
+Manaslu,2017,Success (main peak),8163.0,3,0,0,False,Snowy Horizon Treks
+Nangpai Gosum I,2016,Accident (death or serious injury),6600.0,5,0,0,False,Mountain Tribes Trekking
+Nangpai Gosum I,2017,Success (main peak),7321.0,2,0,0,False,Satori Adventures
+Nuptse West II,2016,"Illness, AMS, exhaustion, or frostbite",7450.0,4,0,0,False,Holiday Himalaya Treks
+Nuptse West II,2017,Success (main peak),7732.0,3,0,0,False,Holiday Himalaya Treks
+Panbari,2017,"Bad weather (storms, high winds)",6400.0,10,0,5,False,Yeti Adventure
+Pandra,2017,Success (main peak),6670.0,3,0,0,False,Mountain Tribes Trekking
+Pangbuk North,2017,Success (main peak),6478.0,4,0,0,False,Mountain Tribes Trekking
+Phungi Himal,2017,Success (main peak),6538.0,2,0,0,False,7 Summits Adventure
+Pumori,2017,Success (main peak),7138.0,2,0,5,False,Seven Summit Treks
+Putha Hiunchuli,2017,Success (main peak),7246.0,10,0,5,True,Beyul Adventure
+Putha Hiunchuli,2017,"Illness, AMS, exhaustion, or frostbite",7000.0,2,0,2,True,Iceland Trekking (Hi On Life Adventures permit)
+Putha Hiunchuli,2017,Success (main peak),7246.0,2,0,0,False,Iceland Trekking (Hi On Life Adventures permit)
+Putha Hiunchuli,2017,"Illness, AMS, exhaustion, or frostbite",6850.0,3,0,1,False,Sherpa Shepherds
+Putha Hiunchuli,2017,Success (main peak),7246.0,7,0,3,False,Khumbi-ila Mt. & Trekking
+Putha Hiunchuli,2017,"Bad weather (storms, high winds)",6100.0,5,0,3,False,Asian Adventure Trips
+Putha Hiunchuli,2017,Unknown,,4,0,2,False,Hi On Life Adventures
+Rolmi,2017,Success (main peak),6056.0,3,0,0,False,Churen Himal Treks
+Tawoche,2017,Success (main peak),6495.0,2,0,2,False,Mountain Experience
+Tharke Kang,2017,Success (main peak),6710.0,9,0,4,False,Himalayan Guides
+Tobsar,2017,Success (main peak),6065.0,3,0,0,False,Churen Himal Treks
+Yanme Kang,2017,Success (main peak),6206.0,2,0,0,False,Yeti Adventure
+Ama Dablam,2017,Success (main peak),6814.0,1,0,0,False,Prestige Adventure permit
+Ama Dablam,2018,Success (main peak),6814.0,4,0,3,False,Seven Summit Treks (Snowy Horizon permit)
+Ama Dablam,2018,Success (main peak),6814.0,2,0,2,False,Utmost Adventure (Happy Feet permit)
+Ama Dablam,2018,"Illness, AMS, exhaustion, or frostbite",6700.0,4,0,3,True,Tseringma Treks
+Ama Dablam,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6000.0,2,0,1,False,Utmost Adventure (Happy Feet permit)
+Ama Dablam,2018,"Bad weather (storms, high winds)",6300.0,2,1,0,False,Snowy Horizon Treks
+Ama Dablam,2018,Success (main peak),6814.0,3,0,2,False,Snowy Horizon Treks
+Annapurna I,2018,Success (main peak),8091.0,1,0,4,True,Seven Summit Treks
+Baruntse,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6200.0,3,0,2,False,High Altitude Dreams
+Baruntse,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6850.0,1,0,2,False,Seven Summit Treks
+Chamlang,2018,"Bad weather (storms, high winds)",6500.0,5,0,0,False,Holiday Himalaya Treks
+Cho Oyu,2018,Success (main peak),8188.0,4,0,2,True,Himalayan Guides
+Cho Oyu,2018,Success (main peak),8188.0,6,0,1,False,Everest Parivar
+Cho Oyu,2018,Success (main peak),8188.0,1,0,0,False,Himalaya Expeditions (Satori permit)
+Cho Oyu,2018,Success (main peak),8188.0,1,0,0,False,Seven Summit Treks
+Cho Oyu,2018,Success (main peak),8188.0,1,0,0,False,Expedition Himalaya (Satori permit)
+Cho Oyu,2018,Success (main peak),8188.0,5,0,5,True,Himalaya Vision
+Cho Oyu,2018,"Illness, AMS, exhaustion, or frostbite",8000.0,1,1,0,False,Satori Adventures
+Cho Oyu,2018,"Bad weather (storms, high winds)",5700.0,2,0,0,False,Snowy Horizon Treks (Himalayan Guides permit)
+Dhaulagiri I,2018,"Bad weather (storms, high winds)",7900.0,6,0,4,True,Seven Summit Treks
+Dhaulagiri I,2018,"Bad weather (storms, high winds)",7300.0,4,0,7,False,Seven Summit Treks
+Dhaulagiri I,2018,"Bad weather (storms, high winds)",7300.0,4,0,0,False,Bochi Bochi Treks
+Dhaulagiri I,2018,Lack of time,7900.0,4,0,2,True,Trekking Camp Nepal
+Dhaulagiri I,2018,"Bad weather (storms, high winds)",7900.0,15,1,0,False,Prestige Adventure
+Dhechyan Khang,2018,Success (main peak),6019.0,2,0,2,False,Langtang Ri Trekking
+Everest,2018,Success (main peak),8850.0,0,0,8,True,
+Everest,2018,Success (main peak),8850.0,15,0,15,True,Asian Trekking
+Everest,2018,Success (main peak),8850.0,15,0,15,True,Asian Trekking
+Everest,2018,Success (main peak),8850.0,12,0,12,True,Asian Trekking
+Everest,2018,Success (main peak),8850.0,3,0,3,True,Asian Trekking
+Everest,2018,Success (main peak),8850.0,10,0,22,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,2,0,4,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,11,0,21,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,2,0,4,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,7,1,8,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,2,0,1,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,9,0,7,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,4,0,4,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,5,0,4,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,2,0,4,True,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,16,0,15,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,16,0,20,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,12,0,11,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,4,0,3,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,4,0,4,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,4,0,3,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,4,0,4,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,10,0,9,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,6,0,6,True,Himalayan Ascent (Seven Summit Treks permit)
+Everest,2018,Success (main peak),8850.0,27,0,46,True,Beyul Adventure
+Everest,2018,Success (main peak),8850.0,6,0,8,True,Everest Parivar
+Everest,2018,Success (main peak),8850.0,7,0,8,True,TAGnepal Trekking
+Everest,2018,Success (main peak),8850.0,3,0,3,True,Mountain Experience
+Everest,2018,Success (main peak),8850.0,11,0,9,True,Pioneer Adventure
+Everest,2018,Success (main peak),8850.0,7,0,7,True,Pioneer Adventure
+Everest,2018,Success (main peak),8850.0,11,0,16,True,Shangri-La Nepal Treks
+Everest,2018,Success (main peak),8850.0,2,0,3,True,Shangri-La Nepal Treks
+Everest,2018,Success (main peak),8850.0,1,0,2,True,Shangri-La Nepal Treks
+Everest,2018,Success (main peak),8850.0,2,0,2,True,High Altitude Dreams
+Everest,2018,"Illness, AMS, exhaustion, or frostbite",8382.0,1,0,1,True,Happy Feet Mountaineers (Pioneer Adventure permit)
+Everest,2018,Success (main peak),8850.0,1,0,1,True,Sherpa Khangri Outdoor (Pioneer Adventure permit)
+Everest,2018,Success (main peak),8850.0,10,0,11,True,Sherpa Khangri Outdoor (Satori Adventure permit)
+Everest,2018,Success (main peak),8850.0,3,0,4,True,Namaste Treks
+Everest,2018,Success (main peak),8850.0,4,0,3,True,Makalu Extreme Treks
+Everest,2018,Success (main peak),8850.0,5,0,5,True,Himalayan Trailblazer
+Everest,2018,Success (main peak),8850.0,1,0,1,True,Thamserku Trekking (High Altitude Dreams permit)
+Everest,2018,Success (main peak),8850.0,1,0,1,True,Thamserku Trekking
+Everest,2018,Success (main peak),8850.0,7,0,9,True,Dreamers Destination Treks
+Everest,2018,Success (main peak),8850.0,5,0,4,True,Dreamers Destination Treks
+Everest,2018,Success (main peak),8850.0,10,0,11,True,Imagine Nepal
+Everest,2018,Success (main peak),8850.0,4,0,3,True,Mountain Tribes Trekking (High Alt Dreams permit)
+Everest,2018,Success (main peak),8850.0,3,0,3,True,Mountain Tribes Trekking (High Alt Dreams permit)
+Everest,2018,Success (main peak),8850.0,4,0,3,True,Prestige Adventure (Satori Adventure permit)
+Everest,2018,"Illness, AMS, exhaustion, or frostbite",7650.0,1,0,1,True,Ever Quest Expeditions
+Everest,2018,Success (main peak),8850.0,3,0,4,True,Trekking Camp Nepal
+Everest,2018,Success (main peak),8850.0,3,0,3,True,Trekking Camp Nepal
+Everest,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7000.0,2,0,0,False,Cho Oyu Trekking
+Everest,2018,Success (main peak),8850.0,3,0,6,True,Satori Adventures
+Everest,2018,Success (main peak),8850.0,2,0,2,True,Satori Adventures
+Everest,2018,Success (main peak),8850.0,3,0,3,True,Grand Himalaya Treks
+Everest,2018,Success (main peak),8850.0,2,0,3,True,Alpine Sherpa Guide Treks (Happy Feet permit)
+Everest,2018,Success (main peak),8850.0,1,0,2,True,Adventure Ascent (Happy Feet permit)
+Everest,2018,Success (main peak),8850.0,6,0,8,True,Kaitu Expedition
+Everest,2018,Accident (death or serious injury),7400.0,1,1,0,False,Bochi Bochi Treks
+Everest,2018,Success (main peak),8850.0,10,0,9,True,Ascent Himalayas
+Everest,2018,Success (main peak),8850.0,6,0,6,True,Cosmo Treks
+Everest,2018,Success (main peak),8850.0,3,0,0,True,Alpine Adventure Travel (Satori Adventures permit)
+Everest,2018,Success (main peak),8850.0,6,0,6,True,Seven Brothers Summiters
+Everest,2018,Success (main peak),8850.0,2,0,2,True,Happy Feet Mountaineers
+Everest,2018,Unknown,,3,0,7,False,Numbur Himal Treks
+Everest,2018,Success (main peak),8850.0,31,0,35,True,7 Summits Adventure
+Everest,2018,Success (main peak),8850.0,12,0,16,True,Seven Summit Treks
+Everest,2018,Success (main peak),8850.0,10,0,9,True,Everest Parivar
+Everest,2018,Success (main peak),8850.0,3,0,4,True,Himalaya Vision
+Everest,2018,Success (main peak),8850.0,5,0,5,True,Himalaya Vision
+Everest,2018,Lack (or loss) of supplies or equipment,8600.0,8,0,9,True,Himalaya Vision
+Everest,2018,Success (main peak),8850.0,13,0,15,True,Himalaya Vision
+Everest,2018,Success (main peak),8850.0,10,0,14,True,Iceland Trekking
+Everest,2018,Success (main peak),8850.0,7,0,11,True,Expedition Himalaya
+Everest,2018,Success (main peak),8850.0,5,0,3,True,Makalu Adventure
+Everest,2018,Success (main peak),8850.0,2,0,3,True,Glacier Himalaya Treks
+Everest,2018,Success (main peak),8850.0,6,0,4,True,Climbalaya
+Everest,2018,Success (main peak),8850.0,1,0,0,True,Climbalaya
+Everest,2018,Success (main peak),8850.0,4,0,2,True,Rolwaling Excursion
+Everest,2018,Success (main peak),8850.0,1,0,1,True,Yeti Expeditions (Mingma Gelu)
+Everest,2018,Lack (or loss) of supplies or equipment,7000.0,1,0,2,False,Himalayan Guides
+Everest,2018,Success (main peak),8850.0,7,0,0,True,Climbalaya
+Everest,2018,Success (main peak),8850.0,12,0,17,True,Holy Mountain Adventure
+Everest,2018,Success (main peak),8850.0,15,0,19,True,
+Everest,2018,Success (main peak),8850.0,47,0,54,True,Arun Treks
+Everest,2018,Success (main peak),8850.0,2,0,2,True,Royal Orchid Treks (Trekking Camp Nepal permit)
+Gorakh Himal,2017,"Route technically too difficult, lack of experience, strength, or motivation",4300.0,6,0,0,False,Himalayan Treasure
+Hongku,2015,Success (main peak),6764.0,3,0,0,False,Prestige Adventure
+Jomsom Himal,2018,"Bad weather (storms, high winds)",6200.0,3,0,3,False,Himalayan Travellers Nepal
+Kangchenjunga,2018,Success (main peak),8586.0,13,0,4,True,Seven Summit Treks
+Kangchenjunga,2018,Success (main peak),8586.0,10,0,7,True,Asian Trekking
+Kangchenjunga,2018,Success (main peak),8586.0,12,0,19,True,Asian Trekking
+Kangchenjunga,2018,Success (main peak),8586.0,5,0,8,True,Expedition Base
+Kangchenjunga,2018,Other,8500.0,2,0,0,False,Adventure Geo Treks
+Kangchenjunga,2018,Success (main peak),8586.0,3,0,2,True,Imagine Nepal
+Kangchenjunga,2018,"Illness, AMS, exhaustion, or frostbite",8350.0,1,0,1,True,Destination Holiday
+Lhotse,2018,Success (main peak),8516.0,2,0,3,True,Beyul Adventure
+Lhotse,2018,Success (main peak),8516.0,2,0,2,True,Himalayan Guides
+Lhotse,2018,Success (main peak),8516.0,2,0,1,True,Himalayan Guides
+Lhotse,2018,Success (main peak),8516.0,2,0,0,True,Himalayan Guides
+Lhotse,2018,Success (main peak),8516.0,2,0,0,True,Himalayan Guides
+Lhotse,2018,Success (main peak),8516.0,12,0,5,True,Everest Parivar
+Lhotse,2018,Success (main peak),8516.0,6,0,3,True,Seven Summit Treks
+Lhotse,2018,Success (main peak),8516.0,4,0,3,True,Seven Summit Treks
+Lhotse,2018,Success (main peak),8516.0,2,0,0,False,Seven Summit Treks
+Lhotse,2018,Success (main peak),8516.0,5,0,5,True,Makalu Extreme Treks
+Lhotse,2018,Success (main peak),8516.0,3,0,3,True,Shangri-La Nepal Treks
+Lhotse,2018,Success (main peak),8516.0,2,0,3,True,Shangri-La Nepal Treks
+Lhotse,2018,Success (main peak),8516.0,3,0,3,True,TAGnepal Trekking (on Satori Adventures permit)
+Lhotse,2018,Success (main peak),8516.0,2,0,2,True,TAGnepal Trekking
+Lhotse,2018,Success (main peak),8516.0,4,0,2,True,High Altitude Dreams
+Lhotse,2018,Success (main peak),8516.0,6,0,6,True,Cosmo Treks
+Lhotse,2018,Success (main peak),8516.0,2,0,1,True,Sherpa Khangri Outdoor
+Lhotse,2018,"Illness, AMS, exhaustion, or frostbite",8100.0,1,0,0,False,Prestige Adventure
+Lhotse,2018,"Illness, AMS, exhaustion, or frostbite",8480.0,1,0,0,False,Alpine Sherpa Guide Treks
+Lhotse,2018,Success (main peak),8516.0,4,0,2,True,Imagine Nepal
+Lhotse,2018,Success (main peak),8516.0,5,0,4,True,Pioneer Adventure
+Lhotse,2018,Success (main peak),8516.0,5,0,6,True,Satori Adventures
+Lhotse,2018,Success (main peak),8516.0,3,0,3,True,Ascent Himalayas
+Lhotse,2018,Success (main peak),8516.0,2,0,1,True,Mountain Tribes Trekking (High Alt Dreams permit)
+Lhotse,2018,"Bad weather (storms, high winds)",8400.0,1,1,0,False,Seven Summit Treks
+Makalu II,2018,Unknown,,9,0,5,False,Himalayan Travellers Nepal
+Makalu,2018,Success (main peak),8485.0,11,0,4,True,Seven Summit Treks
+Makalu,2018,Success (main peak),8485.0,8,0,8,True,Seven Summit Treks
+Makalu,2018,"Illness, AMS, exhaustion, or frostbite",8200.0,1,0,1,True,Expedition Himalaya
+Makalu,2018,"Illness, AMS, exhaustion, or frostbite",7100.0,1,0,1,False,Expedition Himalaya
+Makalu,2018,Success (main peak),8485.0,2,0,3,True,Trekking Sherpa Expedition
+Manaslu,2018,"Bad weather (storms, high winds)",6000.0,3,0,1,False,Boss Adventure
+Manaslu,2018,"Bad weather (storms, high winds)",,5,0,2,False,Wild Yak Expeditions
+Nuptse,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7650.0,2,0,4,True,Himalayan Guides
+Nuptse,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7650.0,4,0,2,True,Himalayan Guides
+Omitso Go,2017,Success (main peak),6332.0,2,0,0,False,Imagine Nepal
+Omitso Go,2018,"Bad weather (storms, high winds)",,4,0,1,False,High Himalayan Climbing
+Panbari,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5400.0,6,0,0,False,"Holiday Himalaya Treks, Magical Nepal"
+Pankar Himal,2018,Success (main peak),6264.0,6,0,0,False,Cosmo Treks
+Punchen Himal,2017,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5962.0,2,0,2,False,Snowy Horizon Treks
+Ripimo Shar,2017,Success (main peak),6647.0,2,0,0,False,Imagine Nepal
+Sharphu I,2017,"Bad weather (storms, high winds)",5600.0,3,0,1,False,Alternative Nepal
+Aichyn,2018,Did not attempt climb,,8,0,1,False,Himalayan Travellers Nepal
+Ama Dablam,2017,"Bad weather (storms, high winds)",6000.0,1,0,1,False,Hi On Life Adventures permit
+Ama Dablam,2018,Success (main peak),6814.0,2,0,0,False,Snowy Horizon Treks
+Ama Dablam,2018,Success (main peak),6814.0,26,0,9,True,Everest Parivar
+Ama Dablam,2018,"Bad weather (storms, high winds)",6814.0,17,1,6,False,Himalayan Guides
+Ama Dablam,2018,Success (main peak),6814.0,8,0,7,True,Himalayan Guides
+Ama Dablam,2018,Success (main peak),6814.0,5,0,2,False,Himalayan Guides
+Ama Dablam,2018,Success (main peak),6814.0,4,0,2,False,Iceland Trekking (Satori Adventures permit)
+Ama Dablam,2018,Success (main peak),6814.0,5,0,2,False,Himalaya Vision
+Ama Dablam,2018,Accident (death or serious injury),6100.0,2,0,2,True,Himalaya Vision
+Ama Dablam,2018,Success (main peak),6814.0,4,0,2,False,Beyul Adventure (Prestige Adventure permit)
+Ama Dablam,2018,Success (main peak),6814.0,7,0,5,True,Shangri-La Nepal Treks
+Ama Dablam,2018,Success (main peak),6814.0,2,0,2,False,Shangri-La Nepal Treks
+Ama Dablam,2018,Success (main peak),6814.0,13,0,3,False,Thamserku Trekking
+Ama Dablam,2018,Success (main peak),6814.0,5,0,3,False,Ever Quest Expeditions
+Ama Dablam,2018,Success (main peak),6814.0,2,0,3,False,Ever Quest Expeditions
+Ama Dablam,2018,Success (main peak),6814.0,4,0,2,False,Makalu Adventure (Snowy Horizon permit)
+Ama Dablam,2018,Success (main peak),6814.0,7,0,5,False,Pioneer Adventure
+Ama Dablam,2018,Success (main peak),6814.0,3,0,1,False,High Himalayan Climbing (Ever Quest permit)
+Ama Dablam,2018,Success (main peak),6814.0,8,0,1,False,Snowy Horizon Treks
+Ama Dablam,2018,Success (main peak),6814.0,2,0,0,False,Snowy Horizon Treks
+Ama Dablam,2018,Success (main peak),6814.0,2,0,0,False,Prestige Adventure
+Ama Dablam,2018,Success (main peak),6814.0,7,0,4,False,Seven Summit Treks
+Ama Dablam,2018,Success (main peak),6814.0,9,0,3,False,Expedition Base
+Ama Dablam,2018,Success (main peak),6814.0,3,0,3,False,Himalayan Guides
+Ama Dablam,2018,Success (main peak),6814.0,2,0,0,False,TAGnepal Trekking
+Ama Dablam,2018,Success (main peak),6814.0,2,0,2,False,TAGnepal Trekking
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,TAGnepal Trekking
+Ama Dablam,2018,Success (main peak),6814.0,2,0,1,False,Sherpa Shepherds (Prestige Adventure permit)
+Ama Dablam,2018,Success (main peak),6814.0,3,0,1,False,Elite Himalayan Adventures (Himalayan Guides pmt)
+Ama Dablam,2018,Success (main peak),6814.0,5,0,3,False,Satori Adventures
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Info Nepal Treks (Snowy Horizon permit)
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Himalayan Guides
+Ama Dablam,2018,Success (main peak),6814.0,2,0,2,False,Top Himalaya Guides
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Seven Summit Treks
+Ama Dablam,2018,Success (main peak),6814.0,2,0,2,False,Mountain Experience (Prestige Adventure permit)
+Ama Dablam,2018,Success (main peak),6814.0,4,0,0,False,Snowy Horizon Treks
+Ama Dablam,2018,Success (main peak),6814.0,6,0,4,False,Snowy Horizon Treks
+Ama Dablam,2018,Success (main peak),6814.0,1,0,0,False,Snowy Horizon Treks permit
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Satori Adventures
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Satori Adventures
+Ama Dablam,2018,Success (main peak),6814.0,3,0,2,False,Red Panda Treks
+Ama Dablam,2018,"Bad weather (storms, high winds)",6300.0,8,1,2,False,Top Himalaya Guides
+Ama Dablam,2018,Success (main peak),6814.0,8,0,7,False,Mountain Monarch
+Ama Dablam,2018,Success (main peak),6814.0,5,0,0,False,Snowy Horizon Treks
+Ama Dablam,2018,Success (main peak),6814.0,3,0,1,False,Snowy Horizon Treks permit (Churen Himal Treks?)
+Ama Dablam,2018,Unknown,,4,0,0,False,Seven Summit Treks permit
+Ama Dablam,2018,Success (main peak),6814.0,1,0,0,False,Seven Summit Treks permit
+Ama Dablam,2018,Success (main peak),6814.0,3,0,2,False,Ever Quest Expeditions permit
+Ama Dablam,2018,Success (main peak),6814.0,10,0,6,False,Himalayan Guides
+Ama Dablam,2018,Success (main peak),6814.0,2,0,2,False,Khumbu Shangri-La Nepal permit
+Ama Dablam,2018,Success (main peak),6814.0,2,0,0,False,Namaste Treks (Khumbu Shangri-La Nepal permit)
+Ama Dablam,2018,Success (main peak),6814.0,4,0,3,False,Himalaya Vision
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,BP Scout Peak Treks (Snowy Horizon permit)
+Ama Dablam,2018,Success (main peak),6814.0,12,0,12,False,Happy Feet Mountaineers
+Ama Dablam,2018,Success (main peak),6814.0,3,0,1,False,Pioneer Adventure permit
+Ama Dablam,2018,Success (main peak),6814.0,8,0,2,False,TAGnepal Trekking
+Ama Dablam,2018,Success (main peak),6814.0,14,0,8,False,Climbalaya & Imagine Nepal
+Ama Dablam,2018,"Bad weather (storms, high winds)",6100.0,3,0,0,False,7 Summits Adventure (Himalayan Guides permit)
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Satori Adventures (Himalayan Guides permit)
+Ama Dablam,2018,Success (main peak),6814.0,5,0,6,False,Himalayan Holidays
+Ama Dablam,2018,Success (main peak),6814.0,9,0,6,False,Ascent Himalayas
+Ama Dablam,2018,Success (main peak),6814.0,9,0,5,False,Summit Nepal Trekking
+Ama Dablam,2018,Success (main peak),6814.0,10,0,4,False,Expedition Himalaya
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Asian Trekking?
+Ama Dablam,2018,Success (main peak),6814.0,3,0,2,False,Top Himalaya Guides
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Seven Summit Treks permit
+Ama Dablam,2018,Success (main peak),6814.0,3,0,1,False,Snowy Horizon Treks permit
+Ama Dablam,2018,Success (main peak),6814.0,1,0,1,False,Khumbu Shangri-La Nepal
+Ama Dablam,2018,Success (main peak),6814.0,2,0,0,False,Khumbu Shangri-La Nepal permit
+Ama Dablam,2018,Success (main peak),6814.0,7,0,0,False,Himalayan Guides permit
+Ama Dablam,2018,Unknown,,2,0,2,False,Sherpa Adventure Travel
+Ama Dablam,2018,"Bad weather (storms, high winds)",6000.0,4,0,2,False,Himalayan Wanderer (Khumbu Shangri-La permit)
+Ama Dablam,2018,Success (main peak),6814.0,0,0,3,False,Himalayan Guides
+Ama Dablam,2018,"Bad weather (storms, high winds)",6300.0,1,0,2,False,Rasuwa Treks
+Annapurna I,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6300.0,2,0,0,False,Makalu Extreme Treks
+Annapurna IV,2018,"Illness, AMS, exhaustion, or frostbite",7300.0,8,0,6,False,Makalu Adventure
+Api Main,2018,"Route technically too difficult, lack of experience, strength, or motivation",5500.0,8,0,0,False,Campobase Trek
+Baruntse,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6100.0,1,0,1,False,Corsa Nepal Adventure
+Baruntse,2018,Success (main peak),7152.0,12,0,5,False,Everest Parivar
+Baruntse,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6700.0,4,0,0,False,Xtreme Climbers
+Baruntse,2018,Success (main peak),7152.0,8,0,4,False,Tseringma Treks
+Baruntse,2018,"Bad weather (storms, high winds)",5050.0,1,0,2,False,Tramping Himalaya
+Baruntse,2018,"Bad weather (storms, high winds)",6200.0,2,0,0,False,Thamserku Trekking
+Chhopa Bamare,2018,Success (main peak),6109.0,2,0,0,False,Magical Nepal
+Chamlang,2018,"Bad weather (storms, high winds)",6400.0,4,0,0,False,Xtreme Climbers
+Chamlang,2018,Accident (death or serious injury),5900.0,1,1,1,False,Cosmo Treks
+Chamlang,2018,"Bad weather (storms, high winds)",6500.0,2,0,1,False,Cosmo Treks
+Cho Oyu,2018,Success (main peak),8188.0,11,0,9,True,Beyul Adventure
+Cho Oyu,2018,Success (main peak),8188.0,10,0,3,True,Himalaya Vision
+Cho Oyu,2018,Success (main peak),8188.0,4,0,4,True,Himalaya Vision
+Cho Oyu,2018,Success (main peak),8188.0,11,0,10,True,Himalayan Guides
+Cho Oyu,2018,Success (main peak),8188.0,5,0,2,True,Makalu Adventure
+Cho Oyu,2018,Success (main peak),8188.0,8,0,12,True,Himalaya Vision
+Cho Oyu,2018,Success (subpeak),8188.0,10,0,5,True,Everest Parivar
+Cho Oyu,2018,Success (main peak),8188.0,9,0,5,True,TAGnepal Trekking
+Cho Oyu,2018,Success (main peak),8188.0,5,0,3,True,Mountain Experience
+Cho Oyu,2018,Success (main peak),8188.0,1,0,1,True,Dream Himalaya Adventures
+Cho Oyu,2018,Success (main peak),8188.0,3,0,2,True,Cho Oyu Trekking
+Cho Oyu,2018,Success (main peak),8188.0,5,0,3,True,Snowy Horizon Treks
+Cho Oyu,2018,Success (main peak),8188.0,1,0,2,True,Shangri-La Nepal Treks
+Cho Oyu,2018,Success (main peak),8188.0,1,0,1,True,Satori Adventures
+Cho Oyu,2018,"Illness, AMS, exhaustion, or frostbite",8000.0,1,0,1,True,Wild Yak Expeditions
+Cho Oyu,2018,Success (main peak),8188.0,10,0,12,True,Holy Mountain Adventure
+Changwathang,2018,Success (main peak),6130.0,2,0,2,False,Cosmo Treks
+Danphe Shail,2018,"Bad weather (storms, high winds)",5700.0,13,0,0,False,Glacier Safarai Treks
+Dhaulagiri I,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6700.0,6,0,3,False,Himalaya Vision
+Dhaulagiri I,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6800.0,8,0,8,True,Seven Summit Treks
+Dhaulagiri I,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5800.0,2,0,3,False,Seven Summit Treks
+Drangnag Ri,2018,Success (main peak),6757.0,4,0,0,False,Annapurna Treks
+Everest,2018,Success (main peak),8850.0,0,0,6,True,
+Gangapurna,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6200.0,2,0,0,False,Su-Swagatam Treks
+Ghustang South,2018,Success (main peak),6465.0,9,0,4,False,Himalayan Travellers Nepal
+Ghyun Himal I,2018,"Bad weather (storms, high winds)",5300.0,13,0,7,False,Himalayan Travellers Nepal
+Gurja Himal,2018,Accident (death or serious injury),3800.0,5,5,4,False,Trekking Camp Nepal
+Himjung,2018,Success (main peak),7092.0,3,0,0,False,Amis Himalaya Adventure
+Himlung Himal,2018,Success (main peak),7126.0,5,0,3,False,Himalaya Vision
+Himlung Himal,2018,Success (main peak),7126.0,12,0,4,False,Thamserku Trekking
+Himlung Himal,2018,"Illness, AMS, exhaustion, or frostbite",7000.0,6,0,1,False,Thamserku Trekking
+Himlung Himal,2018,Success (main peak),7126.0,6,0,2,True,Climbalaya (Alternative Nepal Trek permit)
+Himlung Himal,2018,Unknown,,6,0,4,False,Seven Summit Treks
+Himlung Himal,2018,Success (main peak),7126.0,2,0,2,False,Seven Summit Treks
+Himlung Himal,2018,Success (main peak),7126.0,7,0,5,False,Seven Summit Treks
+Himlung Himal,2018,Success (main peak),7126.0,1,0,1,True,Seven Summit Treks
+Himlung Himal,2018,Success (main peak),7126.0,4,0,3,False,Annapurna Foothills (Wild Yak Expeditions permit)
+Himlung Himal,2018,Success (main peak),7126.0,2,0,4,False,High Himalayan Climbing
+Himlung Himal,2018,"Illness, AMS, exhaustion, or frostbite",6300.0,1,0,1,False,Snowy Horizon Treks (Alternative Nepal permit)
+Himlung Himal,2018,Success (main peak),7126.0,3,0,2,False,Wild Yak Expeditions
+Himlung Himal,2018,Success (main peak),7126.0,7,0,6,False,Imagine Nepal
+Himlung Himal,2018,Success (main peak),7126.0,6,0,5,False,Satori Adventures
+Himlung Himal,2018,Success (main peak),7126.0,4,0,2,False,Himalayan Ecstasy Treks (Alternative Nepal permit)
+Himlung Himal,2018,Success (main peak),7126.0,1,0,1,False,Himalayan Ecstasy Treks (Wild Yaks Exped permit)
+Himlung Himal,2018,Success (main peak),7126.0,1,0,1,False,Wild Yak Expeditions permit
+Himlung Himal,2018,Success (main peak),7126.0,2,0,3,False,Alternative Nepal permit
+Jannu East,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",4550.0,2,0,0,False,Expedition Himalaya
+Khangri Shar,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6660.0,3,0,3,False,Seven Summit Treks
+Khangri Shar,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5300.0,2,0,0,False,Happy Feet Mountaineers
+Korlang Pari Tippa,2018,Success (subpeak),5574.0,4,0,2,False,Himalaya Expeditions
+Langtang Yubra,2018,Success (main peak),6048.0,11,0,5,True,Highland Excursions
+Lachama North,2018,"Bad weather (storms, high winds)",6000.0,2,0,0,False,Climb High Himalaya
+Langdung,2018,Success (main peak),6326.0,3,0,0,False,Annapurna Treks
+Langdung,2018,Success (main peak),6326.0,15,0,3,False,Himalaya Expeditions
+Lhotse,2018,Success (main peak),8516.0,4,0,7,True,Xtreme Climbers
+Langshisa Ri,2018,Success (main peak),6412.0,11,0,5,False,Highland Excursions
+Lunag Ri,2018,Success (main peak),6895.0,3,0,0,False,Shangri-La Nepal Treks
+Manaslu,2018,Success (main peak),8163.0,10,0,6,True,Seven Summit Treks
+Manaslu,2018,Success (main peak),8163.0,16,0,8,True,Seven Summit Treks
+Manaslu,2018,Success (main peak),8163.0,15,0,11,True,Seven Summit Treks
+Manaslu,2018,Success (main peak),8163.0,12,0,10,True,Seven Summit Treks (Sherpa 14 Peak Exp)
+Manaslu,2018,Success (main peak),8163.0,16,0,13,True,Asian Trekking
+Manaslu,2018,Success (main peak),8163.0,11,0,8,True,Makalu Extreme Treks
+Manaslu,2018,Success (main peak),8163.0,5,0,5,True,Mountain Experience
+Manaslu,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7100.0,8,0,0,False,Prestige Adventure
+Manaslu,2018,Success (main peak),8163.0,3,0,1,False,Prestige Adventure
+Manaslu,2018,Success (main peak),8163.0,1,0,1,True,Prestige Adventure
+Manaslu,2018,Success (main peak),8163.0,5,0,4,True,Himalayan Ski Trek
+Manaslu,2018,Success (main peak),8163.0,8,0,6,True,Expedition Base (Satori permit)
+Manaslu,2018,Success (main peak),8163.0,10,0,7,True,Grand Himalaya Treks
+Manaslu,2018,Success (main peak),8163.0,10,0,10,True,Kaitu Expedition
+Manaslu,2018,"Bad weather (storms, high winds)",6800.0,2,0,0,False,Kaitu Expedition
+Manaslu,2018,Success (main peak),8163.0,3,0,2,True,Ever Quest Expeditions (Pioneer Adventure permit)
+Manaslu,2018,Success (main peak),8163.0,3,0,3,True,Satori Adventures
+Manaslu,2018,"Illness, AMS, exhaustion, or frostbite",7800.0,3,0,1,False,Utmost Adventure (Satori permit)
+Manaslu,2018,Success (main peak),8163.0,2,0,2,True,Trekking Camp Nepal
+Manaslu,2018,Success (main peak),8163.0,3,0,3,True,Numbur Himal Treks
+Manaslu,2018,Success (main peak),8163.0,2,0,2,True,Dolma Outdoor (Numbur Himal permit)
+Manaslu,2018,Success (main peak),8163.0,3,0,2,True,Wild Yak Expeditions (Grand Himalaya permit)
+Manaslu,2018,Success (main peak),8163.0,2,0,2,True,Dream Himalaya Adventures (Grand Himalaya permit)
+Manaslu,2018,Success (main peak),8163.0,11,0,8,True,Imagine Nepal
+Manaslu,2018,Success (main peak),8163.0,11,0,8,True,Pioneer Adventure
+Manaslu,2018,Success (main peak),8163.0,3,0,2,True,Pioneer Adventure
+Manaslu,2018,Success (main peak),8163.0,5,0,4,True,Snowy Horizon Treks
+Manaslu,2018,Success (main peak),8163.0,7,1,11,True,Nirekha Adventures
+Manaslu,2018,Success (main peak),8163.0,12,1,1,True,Mount Treks
+Manaslu,2018,Success (main peak),8163.0,2,0,0,True,Mount Treks
+Manaslu,2018,"Bad weather (storms, high winds)",6400.0,1,0,1,False,Cho Oyu Trekking
+Nilgiri North,2018,"Route technically too difficult, lack of experience, strength, or motivation",5900.0,2,0,1,False,Cosmo Treks
+Norbu Kang,2018,"Bad weather (storms, high winds)",5953.0,8,0,5,False,Himalayan Travellers Nepal
+Nup La Kang,2018,Success (main peak),6861.0,7,0,5,True,Himalayan Guides
+Peri,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5100.0,1,0,0,False,Magical Nepal
+Pumori,2018,"Illness, AMS, exhaustion, or frostbite",6200.0,4,0,0,False,Khumbi-ila Mt. & Trekking (Snowy Horizon permit)
+Pumori,2018,Success (main peak),7138.0,3,0,0,False,Snowy Horizon Treks
+Pumori,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6200.0,6,0,1,False,Satori Adventures
+Pumori,2018,Success (main peak),7138.0,5,0,0,False,Shambhala Holidays
+Purbung Himal,2018,"Route technically too difficult, lack of experience, strength, or motivation",5650.0,3,0,2,False,Snowy Horizon Treks
+Putha Hiunchuli,2018,Success (main peak),7246.0,6,0,2,False,Iceland Trekking
+Putha Hiunchuli,2018,Success (main peak),7246.0,5,0,1,False,Ski Guides Nepal (Iceland Trekking permit)
+Saipal,2018,"Illness, AMS, exhaustion, or frostbite",6400.0,6,0,0,False,Shangri-La Nepal Treks
+Saipal,2018,Did not attempt climb,,13,0,3,False,Himalayan Wanderer
+Sita Chuchura,2018,Success (main peak),6611.0,2,0,0,False,
+Sharphu II,2018,Success (main peak),6328.0,2,0,0,False,Magical Nepal
+Takphu Himal,2018,Success (main peak),6395.0,5,0,0,False,Royal Mountain Travel
+Thamserku,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",4800.0,2,0,1,False,Cosmo Treks
+Tilicho,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6300.0,5,0,1,False,Himalaya Vision
+Tilicho,2018,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5900.0,2,0,1,False,Ticino Treks
+Til Kang,2018,Success (main peak),6369.0,5,0,0,False,Royal Mountain Travel
+Tsartse,2018,Success (main peak),6343.0,8,0,5,False,Khangri Trek
+Yala Chuli,2018,"Bad weather (storms, high winds)",5900.0,3,0,0,False,Hoshi Treks
+Ama Dablam,2018,"Illness, AMS, exhaustion, or frostbite",6000.0,2,0,0,False,Khumbu Shangri-La Nepal permit
+Ama Dablam,2019,Success (main peak),6814.0,2,0,0,False,Seven Summit Treks
+Ama Dablam,2019,Unknown,,12,0,0,False,Seven Summit Treks
+Ama Dablam,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5950.0,2,0,1,True,Himalaya Vision
+Ama Dablam,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",5800.0,3,0,3,False,Himalaya Vision
+Ama Dablam,2019,Success (main peak),6814.0,3,0,2,False,Namaste Treks (Himalaya Vision permit)
+Ama Dablam,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6700.0,11,0,4,False,Utmost Adventure
+Ama Dablam,2019,Success (main peak),6814.0,2,0,1,False,Utmost Adventure
+Ama Dablam,2019,"Illness, AMS, exhaustion, or frostbite",6000.0,1,0,0,False,Snowy Horizon Treks
+Ama Dablam,2019,Lack of time,5700.0,1,0,1,False,Snowy Horizon Treks
+Ama Dablam,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6200.0,1,0,1,False,Snowy Horizon Treks
+Ama Dablam,2019,Unknown,,2,0,2,False,Snowy Horizon Treks
+Ama Dablam,2019,Success (main peak),6814.0,8,0,4,False,Satori Adventures
+Annapurna I,2019,Success (main peak),8091.0,19,1,25,True,Seven Summit Treks
+Annapurna I,2019,"Bad weather (storms, high winds)",7350.0,3,0,1,True,Dolma Outdoor
+Annapurna I,2019,Success (main peak),8091.0,1,0,1,True,Seven Summit Treks
+Baruntse,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6900.0,6,0,9,False,Yatri Trekking
+Chamlang,2019,Success (main peak),7321.0,2,0,0,False,Green Horizon
+Chamlang,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6200.0,10,0,0,False,Traditional Treks
+Chobuje,2019,"Route technically too difficult, lack of experience, strength, or motivation",5965.0,2,0,0,False,Nepal Social Treks
+Cho Oyu,2019,Accident (death or serious injury),7200.0,10,0,5,False,Everest Parivar
+Cho Oyu,2019,Lack (or loss) of supplies or equipment,7700.0,4,0,4,False,Seven Summit Treks
+Cho Oyu,2019,Lack (or loss) of supplies or equipment,7700.0,3,0,3,False,Snowy Horizon Treks
+Dhaulagiri I,2019,"Bad weather (storms, high winds)",5600.0,3,0,0,False,Cho Oyu Trekking
+Dhaulagiri I,2019,Success (main peak),8167.0,1,0,4,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,0,0,8,True,
+Everest,2019,Success (main peak),8850.0,12,0,12,True,Asian Trekking
+Everest,2019,Success (main peak),8850.0,4,0,3,True,Asian Trekking
+Everest,2019,Success (main peak),8850.0,14,0,14,True,Asian Trekking
+Everest,2019,Success (main peak),8850.0,11,0,11,True,Himalayan Guides
+Everest,2019,Success (main peak),8850.0,15,0,26,True,Himalayan Guides
+Everest,2019,Success (main peak),8850.0,2,0,3,True,Himalayan Guides
+Everest,2019,"Bad weather (storms, high winds)",8750.0,1,0,0,False,Himalayan Guides
+Everest,2019,Success (main peak),8850.0,3,0,3,True,Himalayan Guides
+Everest,2019,Success (main peak),8850.0,24,0,41,True,Beyul Adventure
+Everest,2019,Success (main peak),8850.0,14,0,20,True,Shangri-La Nepal Treks
+Everest,2019,Other,8450.0,8,0,15,True,Shangri-La Nepal Treks
+Everest,2019,Success (main peak),8850.0,7,0,11,True,Summit Nepal Trekking
+Everest,2019,Success (main peak),8850.0,6,1,5,True,Everest Parivar
+Everest,2019,Success (main peak),8850.0,8,0,8,True,Mountain Experience
+Everest,2019,Success (main peak),8850.0,7,0,6,True,High Altitude Dreams
+Everest,2019,Success (main peak),8850.0,30,1,35,True,TAGnepal Trekking
+Everest,2019,Success (main peak),8850.0,16,1,27,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,4,1,3,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,15,0,14,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,12,0,11,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,14,0,16,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,4,0,2,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,10,0,13,True,Kaitu Expedition
+Everest,2019,Success (main peak),8850.0,3,0,3,True,Kaitu Expedition
+Everest,2019,Success (main peak),8850.0,6,1,8,True,Dreamers Destination Treks
+Everest,2019,Success (main peak),8850.0,5,0,4,True,Pioneer Adventure
+Everest,2019,Success (main peak),8850.0,6,1,9,True,Pioneer Adventure
+Everest,2019,Success (main peak),8850.0,1,0,2,True,Pioneer Adventure
+Everest,2019,Success (main peak),8850.0,5,0,6,True,Seven Brothers Summiters
+Everest,2019,"Bad weather (storms, high winds)",8300.0,1,0,1,True,Seven Brothers Summiters
+Everest,2019,Success (main peak),8850.0,9,0,10,True,Imagine Nepal
+Everest,2019,Success (main peak),8850.0,7,1,11,True,Arun Treks (Snowy Horizon permit)
+Everest,2019,Success (main peak),8850.0,3,0,4,True,Himalayan Traverse Adventure
+Everest,2019,Success (main peak),8850.0,2,0,3,True,Cha-Tours Treks
+Everest,2019,Success (main peak),8850.0,1,0,1,True,Happy Feet Mountaineers (Seven Summit Treks pmt)
+Everest,2019,Success (main peak),8850.0,4,0,4,True,Ever Quest Expeditions
+Everest,2019,Success (main peak),8850.0,5,1,6,True,Peak Promotion
+Everest,2019,"Illness, AMS, exhaustion, or frostbite",7800.0,3,0,1,True,Himalayan Ecstasy Treks
+Everest,2019,Success (main peak),8850.0,5,0,6,True,Ascent Himalayas
+Everest,2019,Success (main peak),8850.0,9,0,8,True,Satori Adventures
+Everest,2019,Success (main peak),8850.0,1,0,2,True,Wild Yak Expeditions (Grand Himalaya Treks permit)
+Everest,2019,Success (main peak),8850.0,6,0,7,True,Grand Himalaya Treks
+Everest,2019,Success (main peak),8850.0,5,0,5,True,Grand Himalaya Treks
+Everest,2019,Success (main peak),8850.0,1,0,2,True,Grand Himalaya Treks
+Everest,2019,Success (main peak),8850.0,11,0,11,True,HST Adventures
+Everest,2019,Success (main peak),8850.0,12,0,13,True,Himalaya Expeditions
+Everest,2019,Success (main peak),8850.0,3,0,3,True,Prestige Adventure
+Everest,2019,"Illness, AMS, exhaustion, or frostbite",7200.0,4,0,4,False,Makalu Extreme Treks (Prestige Adventure permit)
+Everest,2019,Success (main peak),8850.0,4,0,6,True,Snowy Horizon Treks
+Everest,2019,Lack (or loss) of supplies or equipment,7900.0,1,0,1,True,Snowy Horizon Treks
+Everest,2019,Success (main peak),8850.0,1,0,1,True,Snowy Horizon Treks
+Everest,2019,"Illness, AMS, exhaustion, or frostbite",7200.0,2,0,2,True,Himalayan Ascent
+Everest,2019,Success (main peak),8850.0,3,0,1,True,Peak Promotion
+Everest,2019,Success (main peak),8850.0,7,0,7,True,Angs Himalayan Adventures (Peak Promotion permit)
+Everest,2019,Success (main peak),8850.0,3,0,2,True,Alpine Sherpa Guide Treks (Peak Promotion pmt)
+Everest,2019,Success (main peak),8850.0,1,0,1,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,1,0,2,True,Satori Adventures
+Everest,2019,Success (main peak),8850.0,6,0,7,True,Sherpa Altitude Adventure (Satori Adventures pmt)
+Everest,2019,Success (main peak),8850.0,8,1,9,True,Himalaya Vision
+Everest,2019,Other,8775.0,8,0,0,True,Himalaya Vision
+Everest,2019,Success (main peak),8850.0,7,0,10,True,Himalaya Vision
+Everest,2019,Success (main peak),8850.0,2,0,2,True,Himalaya Vision
+Everest,2019,"Bad weather (storms, high winds)",7600.0,4,0,0,False,Himalaya Vision
+Everest,2019,"Bad weather (storms, high winds)",7800.0,4,0,4,True,Himalaya Vision
+Everest,2019,Success (main peak),8850.0,8,0,7,True,Everest Parivar
+Everest,2019,Success (main peak),8850.0,9,0,9,True,Iceland Trekking
+Everest,2019,Success (main peak),8850.0,7,0,13,True,Iceland Trekking
+Everest,2019,Success (main peak),8850.0,22,0,23,True,Arun Treks/Transcend Adventure
+Everest,2019,Success (main peak),8850.0,11,0,11,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,4,0,4,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,5,0,6,True,Makalu Adventure
+Everest,2019,Success (main peak),8850.0,6,1,6,True,Himalayan Guides
+Everest,2019,Success (main peak),8850.0,4,0,5,True,Himalayan Guides
+Everest,2019,Success (main peak),8850.0,14,0,14,True,7 Summits Adventure
+Everest,2019,Success (main peak),8850.0,2,0,2,True,Satori Adventures
+Everest,2019,Success (main peak),8850.0,4,0,4,True,Climbalaya (Satori Adventures permit)
+Everest,2019,Success (main peak),8850.0,1,0,2,True,Climbalaya (Satori Adventures permit)
+Everest,2019,Success (main peak),8850.0,8,0,15,True,Expedition Himalaya
+Everest,2019,"Bad weather (storms, high winds)",8000.0,2,0,3,True,Expedition Himalaya
+Everest,2019,Success (main peak),8850.0,3,0,3,True,Mountain Experience
+Everest,2019,Success (main peak),8850.0,1,0,1,True,Asian Trekking (Climbalaya permit)
+Everest,2019,Success (main peak),8850.0,1,0,1,True,Rolwaling Excursion
+Everest,2019,Success (main peak),8850.0,1,0,1,True,Himalayan Guides
+Everest,2019,Success (main peak),8850.0,0,0,6,True,Holy Mountain Adventure
+Everest,2019,Success (main peak),8850.0,13,0,21,True,Holy Mountain Adventure
+Everest,2019,Success (main peak),8850.0,1,0,1,True,Dreamers Destination Treks
+Everest,2019,Success (main peak),8850.0,1,0,0,True,Seven Summit Treks
+Everest,2019,Success (main peak),8850.0,1,0,3,True,HST Adventures permit
+Everest,2019,Success (main peak),8850.0,3,0,4,True,Snowy Horizon Treks
+Gyalzen Peak,2019,Success (main peak),6151.0,6,0,4,False,Everest Women Treks
+Himjung,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6600.0,5,0,0,False,Cosmo Treks
+Himlung Himal,2018,"Bad weather (storms, high winds)",6700.0,4,0,1,False,Base Camp Trekking
+Himlung Himal,2019,Success (main peak),7126.0,2,0,2,False,Summit Nepal Trekking
+Himlung Himal,2019,Success (main peak),7126.0,7,0,3,False,Tribeni Treks
+Himlung Himal,2019,Success (main peak),7126.0,5,0,0,False,Cosmo Treks
+Himlung Himal,2019,Success (main peak),7126.0,10,0,7,False,Himalayan Travellers Nepal
+Himlung Himal,2019,"Illness, AMS, exhaustion, or frostbite",4900.0,2,0,1,False,Happy Feet Mountaineers
+Jannu East,2019,"Route technically too difficult, lack of experience, strength, or motivation",7412.0,3,0,0,False,Dream Himalaya Adventures
+Kangbachen,2019,Lack of time,6300.0,2,0,0,False,Cho Oyu Trekking
+Kangchenjunga,2019,Success (main peak),8586.0,0,0,6,True,
+Kangchenjunga,2019,Success (main peak),8586.0,10,0,8,True,Seven Summit Treks
+Kangchenjunga,2019,Success (main peak),8586.0,11,0,10,True,Peak Promotion
+Kangchenjunga,2019,Success (main peak),8586.0,10,3,11,True,Peak Promotion
+Kangchenjunga,2019,Success (main peak),8586.0,1,0,4,True,Shangri-La Nepal Treks
+Kangchenjunga,2019,Success (main peak),8586.0,1,0,2,True,Seven Summit Treks
+Langtang Lirung,2019,"Bad weather (storms, high winds)",6200.0,2,0,0,False,Everest Parivar
+Lachama Chuli,2019,Did not attempt climb,6100.0,12,0,3,False,Highland Excursions
+Lhotse,2019,Success (main peak),8516.0,5,0,7,True,Imagine Nepal
+Lhotse,2019,Success (main peak),8516.0,1,0,0,True,Imagine Nepal
+Lhotse,2019,Success (main peak),8516.0,10,0,9,True,Seven Summit Treks
+Lhotse,2019,Success (main peak),8516.0,2,0,1,True,Beyul Adventure
+Lhotse,2019,Other,7600.0,7,0,0,False,Everest Parivar
+Lhotse,2019,Success (main peak),8516.0,5,0,3,True,TAGnepal Trekking
+Lhotse,2019,Success (main peak),8516.0,4,0,3,True,Makalu Extreme Treks
+Lhotse,2019,Success (main peak),8516.0,8,1,5,True,Cha-Tours Treks
+Lhotse,2019,Success (main peak),8516.0,3,0,2,True,Himalayan Ecstasy Treks (Happy Feet permit)
+Lhotse,2019,Success (main peak),8516.0,1,0,2,True,Himalayan Ecstasy Treks (Happy Feet permit)
+Lhotse,2019,Success (main peak),8516.0,2,0,1,True,Happy Feet Mountaineers
+Lhotse,2019,Success (main peak),8516.0,3,0,3,True,Grand Himalaya Treks
+Lhotse,2019,Success (main peak),8516.0,1,0,2,True,Satori Adventures
+Lhotse,2019,Success (main peak),8516.0,1,0,2,True,Satori Adventures
+Lhotse,2019,Success (main peak),8516.0,3,0,3,True,Sherpa Altitude Adventure (Satori Adventures pmt)
+Lhotse,2019,"Illness, AMS, exhaustion, or frostbite",7200.0,2,0,1,False,Pioneer Adventure
+Lhotse,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7950.0,7,0,9,False,Trekking Camp Nepal
+Lhotse,2019,Success (main peak),8516.0,1,0,1,True,Seven Summit Treks
+Lhotse,2019,Success (main peak),8516.0,2,0,1,True,Himalayan Guides
+Lhotse,2019,Success (main peak),8516.0,2,0,1,True,Snowy Horizon Treks?
+Lhotse,2019,Success (main peak),8516.0,2,0,1,True,Alpine Sherpa Guide Treks
+Lhotse,2019,Success (main peak),8516.0,1,0,1,True,Kaitu Expedition
+Lhotse,2019,Success (main peak),8516.0,1,0,0,True,Pioneer Adventure
+Lhotse Shar,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6900.0,2,0,0,False,Amitayus Trekking
+Makalu,2019,Success (main peak),8485.0,0,0,5,True,
+Makalu,2019,Success (main peak),8485.0,22,2,20,True,Seven Summit Treks
+Makalu,2019,Success (main peak),8485.0,18,1,15,True,Seven Summit Treks
+Makalu,2019,Success (main peak),8485.0,4,0,3,True,Expedition Base
+Makalu,2019,Success (main peak),8485.0,5,0,5,True,Pioneer Adventure
+Makalu,2019,Success (main peak),8485.0,2,0,2,True,Expedition Base
+Makalu,2019,Success (main peak),8485.0,2,0,1,True,Pioneer Adventure
+Makalu,2019,"Route technically too difficult, lack of experience, strength, or motivation",7800.0,1,0,2,True,Imagine Nepal
+Makalu,2019,Success (main peak),8485.0,1,0,1,True,Seven Summit Treks
+Makalu,2019,Success (main peak),8485.0,1,0,1,True,Imagine Nepal
+Nuptse,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",7710.0,1,0,1,True,Himalayan Guides
+Pasang Lhamu Chuli,2019,Unknown,,4,0,4,False,Seven Summit Treks
+Pumori,2019,Success (main peak),7138.0,8,0,4,False,Mountain Experience
+Pumori,2019,Success (main peak),7138.0,1,0,1,False,Asian Trekking
+Putha Hiunchuli,2019,"Bad conditions (deep snow, avalanching, falling ice, or rock)",6350.0,5,0,2,False,Iceland Trekking
+Ratna Chuli,2019,Lack (or loss) of supplies or equipment,6600.0,1,0,0,False,Pioneer Adventure
+Sano Kailash,2019,Success (main peak),6452.0,2,0,1,False,Langtang Ri Trekking

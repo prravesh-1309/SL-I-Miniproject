@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Himalayan Expeditions 2015–2019</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+<header>
+<h1>What decides success on the Himalayan peaks?</h1>
+<p>1,498 climbing expeditions from 2015 to 2019. Pick a peak and see how often climbers reach the summit, why they turn back, and what oxygen changes.</p>
+<svg class="ridge" viewBox="0 0 1000 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0 62 L90 40 L150 52 L260 14 L330 46 L420 26 L500 58 L610 8 L700 44 L790 30 L880 54 L1000 36"/></svg>
+</header>
+
+<div class="controls">
+<label>Peak<select id="peak"></select></label>
+<label>Trend shows<select id="metric">
+<option value="0">Number of expeditions</option>
+<option value="1" selected>Success rate (%)</option>
+<option value="2">Deaths</option>
+<option value="3">Oxygen use (%)</option>
+</select></label>
+<label>Trend chart type<select id="ctype"><option value="line">Line</option><option value="bar">Bar</option></select></label>
+</div>
+
+<div class="stats">
+<div class="stat"><b id="s1"></b><span>expeditions</span></div>
+<div class="stat"><b id="s2"></b><span>reached the summit</span></div>
+<div class="stat"><b id="s3"></b><span>deaths</span></div>
+<div class="stat"><b id="s4"></b><span>used oxygen</span></div>
+</div>
+
+<div class="grid">
+<div class="card"><h2>Why expeditions ended</h2><p class="note">Number of expeditions for each ending.</p><div class="box"><canvas id="c1"></canvas></div></div>
+<div class="card"><h2>Success with and without oxygen</h2><p class="note" id="oxnote"></p><div class="box"><canvas id="c3"></canvas></div></div>
+<div class="card wide"><h2 id="ttl"></h2><p class="note">Change the measure or the chart type above.</p><div class="box"><canvas id="c2"></canvas></div></div>
+</div>
+
+<div class="card">
+<h2>Main findings</h2>
+<ul>
+<li>62.8% of all expeditions reached the summit, and weather or snow conditions stop climbers more often than accidents.</li>
+<li>Oxygen decides the 8000 m peaks: on Everest 91.4% succeeded with oxygen against 1.8% without it.</li>
+<li>2015 was the weakest year (23.9%) because of the Nepal earthquake, and success stayed near 70–76% afterwards.</li>
+<li>Annapurna I had the highest death rate, 18.5 per 1000 climbers.</li>
+<li>Large teams (10 or more members) succeeded in 77.6% of cases, against 56.4% for teams of up to 3.</li>
+</ul>
+</div>
+<footer>Data: Himalayan Database (Tidy Tuesday). Analysis done in Python with Pandas and NumPy, charts drawn with Chart.js.</footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
